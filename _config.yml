@@ -27,7 +27,7 @@ twitter: https://x.com/LD_matrix
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
-avatar: ./assets/wld2.jpg
+avatar: ./assets/wld2.jpeg
 # logo: ./assets/img/logo.png
 favicon: ./assets/wld1_small.jpg
 favicon_dark: ./assets/wld1_small.jpg
