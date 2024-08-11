@@ -19,11 +19,18 @@ Prior to joining the Ph.D. program, I completed my master's degree in Biostatist
 
 ## Research Interests
 - **Statistical Genetics:** GWAS TWAS
+- **Statistical Genetics:** GWAS TWAS
 
 
-## Awards
-- **[May. 2023]
-- ** 
+## Awards and honors
+- **[2024] Vernon M. Chinchilli, PhD Award for Excellence in Biostatistics
+- **[2023] ASHG - Featured Plenary Oral Presentation (15/3000)
+- **[2023] ASHG - Predoctoral Trainee Research Excellence Finalist (9/900)
+- **[2023] ACGA - Predoctoral Trainee Awardee for Basic Research
+- **[2023] Finkelstein Memorial Trainee Research Award
+- **[2019] Statistical Genetics Summer Institutes Scholarship
+- **[2018] Biomedical Graduate Tuition Scholarship
+
 
 
 
