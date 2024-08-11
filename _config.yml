@@ -27,10 +27,10 @@ twitter: https://x.com/LD_matrix
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
-avatar: ./assets/wld1.jpg
+avatar: ./assets/wld1_small.jpg
 # logo: ./assets/img/logo.png
-favicon: ./assets/wld1.jpg
-favicon_dark: ./assets/wld1.jpg
+favicon: ./assets/wld1_small.jpg
+favicon_dark: ./assets/wld1_small.jpg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
