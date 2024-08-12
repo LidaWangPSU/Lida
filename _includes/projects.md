@@ -1,18 +1,3 @@
-
-<head>
-<style>
-badgenew {
-  background-color: #79A2DD;
-  color: white;
-  padding: 2px 6px;
-  text-align: center;
-  border-radius: 5px;
-}
-</style>
-</head>
-<body>
-
-
 <h2 id="publications" style="margin: 2px 0px -15px;"> Projects</h2>
 
 
