@@ -27,7 +27,12 @@ Prior to joining the Ph.D. program, I completed my master's degree in Biostatist
 - [2019] Statistical Genetics Summer Institutes Scholarship
 - [2018] Biomedical Graduate Tuition Scholarship
 
-{% include_relative _includes/projects.md %}
+## Selected Publication
+- [2024] Wang, L.., Markus, H., Chen, D., Liu, D., et al. An atlas of single cell expression quantitative trait loci from whole blood resolves autoimmune diseases associated genes. (Cell under revision). [Selected for plenary oral talk and predoctoral trainee finalist in ASHG 2023, predoctoral trainee awardee in ACGA 2023.]
+- [2024] Gao, S.∗, Wang, L.∗, et al. Integrating Bulk and Single-Cell RNA Seq Data to Unravel Brain Cell Type-Specific Genetic Signals in Addiction Traits. (In prep.) [Selected for oral talk in NIDA Genetics and Epigenetics Cross-Cutting Research Team Meeting 2024.]
+- [2023] Wang, L.., Khunsriraksakul, C., et al. <a href="https://www.nature.com/articles/s41467-024-48143-1" target="_blank"> Integrating single cell expression quantitative trait loci summary statistics to understand complex trait risk genes. Nat Commun 15, 4260 (2024).</a> [Selected for oral talk in STATGEN 2024: Conference on Statistics in Genomics and Genetics.]
+- [2022] Khunsriraksakul, C., ..., Wang, L., et al. <a href="https://www.nature.com/articles/s41467-022-30956-7" target="_blank"> Integrating 3D genomic and epigenomic data to enhance target gene discovery and drug repurposing in transcriptome-wide association studies. Nat Commun 13, 3258 (2022).</a>
+- [2022] Yuan A., Wang L., Tan MT.<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9229" target="_blank"> Set-regression with applications to subgroup analysis. Statistics in Medicine. 2022;41(1):180-193.</a>
 
 
 
