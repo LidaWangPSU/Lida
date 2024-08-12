@@ -18,7 +18,7 @@
 </div>
 </li>
 
-
+<!-- 
 <li>
 <div class="pub-row">
 
@@ -33,7 +33,7 @@
     <div class="periodical"> <small> *Invited talk in NIDA Genetics and Epigenetics Cross-Cutting Research Team Meeting 2024</small></div>
   </div>
 </div>
-</li>
+</li>-->
 
 <li>
 <div class="pub-row">
