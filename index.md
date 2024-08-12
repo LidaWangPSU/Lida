@@ -19,7 +19,7 @@ In the summer of 2023, I had the opportunity to work as a Research Data Scientis
 
 ## Awards and honors
 - [2024] Vernon M. Chinchilli, PhD Award for Excellence in Biostatistics
-- [2023] ASHG - Featured Plenary Oral Presentation (15/3000)
+- [2023] ASHG - <a href="https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PlenaryAbstracts.pdf" target="_blank"> Featured Plenary Oral Presentation </a>  (15/3000) 
 - [2023] ASHG - <a href="https://www.ashg.org/wp-content/uploads/2023/12/ASHG-Trainee-Research-for-Excellence-Awards-2023-Recipients.pdf" target="_blank"> Predoctoral Trainee Research Excellence Finalist </a> (9/900)
 - [2023] ACGA - Predoctoral Trainee Awardee for Basic Research
 - [2023] <a href="https://pennstatehealthnews.org/topics/finkelstein-award/" target="_blank"> Finkelstein Memorial Trainee Research Award</a>
