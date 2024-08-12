@@ -36,7 +36,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>EXPRESSO (EXpression PREdiction with Summary Statistics Only)</strong></div>
-    <div class="author"><small>Lida Wang, Dajiang Liu </small></div>
+    <div class="author"><small>Lida Wang, Chachrit Khunsriraksakul, Dajiang Liu </small></div>
     <div class="periodical"> <small> *STATGEN 2024 Invited Talk</small></div>
      <div class="links">
     <a href="https://www.nature.com/articles/s41467-024-48143-1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">NC 2024</a>
