@@ -36,5 +36,5 @@ Prior to joining the Ph.D. program, I completed my master's degree in Biostatist
 - [2022] Yuan A., Wang L., Tan MT.<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9229" target="_blank"> Set-regression with applications to subgroup analysis. </a> Statistics in Medicine. 2022;41(1):180-193.
 
 ## Resources
-- [2024] <a href="https://magazine.amstat.org/blog/2024/08/01/lidawang/" target="_blank"> ASA new member spotlight</a>. 
+- [2024] <a href="https://magazine.amstat.org/blog/2024/08/01/lidawang/" target="_blank"> ASA new member spotlight</a> on me. 
 - [2024] <a href="https://www.psu.edu/news/research/story/new-ai-algorithm-may-improve-autoimmune-disease-prediction-and-therapies/" target="_blank"> Penn State Health News</a> features our EXPRESSO work.
