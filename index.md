@@ -27,8 +27,7 @@ Prior to joining the Ph.D. program, I completed my master's degree in Biostatist
 - [2019] Statistical Genetics Summer Institutes Scholarship
 - [2018] Biomedical Graduate Tuition Scholarship
 
-
-
+{% include_relative _includes/projects.md %}
 
 
 
