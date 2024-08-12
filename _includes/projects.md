@@ -16,8 +16,8 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>JOBS (JOint analysis of Bulk-eQTL and Sc-eQTL)</strong></div>
     <div class="author"><strong>Lida Wang, Dajiang Liu.</strong></div>
-    <div class="periodical"> -ASHG 2023 Plenary Talk and Predoctoral Trainee Research Excellence Finalist</div>
-     <div class="periodical"> -ACGA Predoctoral Trainee Awardee for Basic Research</div>
+    <div class="periodical"> <small> *ASHG 2023 Plenary Talk and Predoctoral Trainee Research Excellence Finalist</small>small></div>
+     <div class="periodical"> <small> *ACGA Predoctoral Trainee Awardee for Basic Research</small>small></div>
     <div class="links">
     <a href="https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PlenaryAbstracts.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
