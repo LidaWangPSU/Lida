@@ -39,7 +39,7 @@
     <div class="author"><small>Lida Wang, Dajiang Liu </small></div>
     <div class="periodical"> <small> *STATGEN 2024 Invited Talk</small></div>
      <div class="links">
-    <a href="https://www.nature.com/articles/s41467-024-48143-1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Nature Communications 2024</a>
+    <a href="https://www.nature.com/articles/s41467-024-48143-1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">NC 2024</a>
     </div>
   </div>
 </div>
@@ -59,9 +59,9 @@
     <div class="title"><strong>Prediction using models informed by chromatin conformations and epigenomics (PUMICE) </strong></div>
     <div class="author"><small>Chachrit Khunsriraksakul, Lida Wang, Dajiang Liu </small></div>
      <div class="links">
-    <a href="https://www.nature.com/articles/s41467-022-30956-7" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Nature Communications 2022</a>
-    <a href="https://www.nature.com/articles/s41467-023-36306-5" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Nature Communications 2023</a>
-    <a href="https://www.nature.com/articles/s41467-024-46132-y" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Nature Communications 2024</a>
+    <a href="https://www.nature.com/articles/s41467-022-30956-7" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">NC 2022</a>
+    <a href="https://www.nature.com/articles/s41467-023-36306-5" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">NC 2023</a>
+    <a href="https://www.nature.com/articles/s41467-024-46132-y" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">NC 2024</a>
     </div>
   </div>
 </div>
