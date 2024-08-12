@@ -17,6 +17,7 @@ Prior to joining the Ph.D. program, I completed my master's degree in Biostatist
 - Statistical Genetics: Assess the associations between genetic variants and human traits and predict disease risk.
 - Data Science: Develop and apply machine learning and deep learning models to analyze large-scale datasets and enhance the accuracy of predictive models.
 
+{% include_relative _includes/projects.md %}
 
 ## Awards and honors
 - [2024] Vernon M. Chinchilli, PhD Award for Excellence in Biostatistics
