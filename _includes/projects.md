@@ -10,7 +10,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/jobs.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ASHG 2023</abbr>
+    <abbr class="badge">Cell Under Revision</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -30,8 +30,8 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/expresso.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ASHG 2022</abbr>
+    <img src="assets/expresso.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Nature Communications</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -46,27 +46,28 @@
 </li>
   
 
+
 <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/OCS.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">AHI</abbr>
+    <img src="assets/pumice.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Nature Communications</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Open Case Studies</a></div>
-    <div class="author">Stephanie Hicks, Leah Jager, Margaret Taub, Carrie Wright, John Muschelli, Lyla Atta, Michael Breshock, Qier Meng, Alexandra Stephens, <strong>Hanchao Zhang</strong>, and etc. </div>
-    <div class="periodical"><em>the Johns Hopkins University, and Bloomberg American Health Initiative.</em></div>
-    <div class="links">
-      <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/orgs/opencasestudies/teams/jhu-research-assistants" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a>
+    <div class="title"><strong>Prediction using models informed by chromatin conformations and epigenomics (PUMICE) </strong></div>
+    <div class="author"><small>Chachrit Khunsriraksakul, Lida Wang, Dajiang Liu </small></div>
+     <div class="links">
+    <a href="https://www.nature.com/articles/s41467-022-30956-7" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Nature Communications 2022</a>
+    <a href="https://www.nature.com/articles/s41467-023-36306-5" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Nature Communications 2023</a>
+    <a href="https://www.nature.com/articles/s41467-024-46132-y" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Nature Communications 2024</a>
     </div>
   </div>
 </div>
 </li>
+  
+
   
 <br>
 
