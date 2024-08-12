@@ -30,21 +30,16 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/mediation.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/expresso.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">On the Inference of Confounders for Mediation Analysis</a></div>
-    <div class="author"><strong>Hanchao Zhang, Thaddeus Tarpey</strong></div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Jun. 2024.</em></div>
-    <div class="links">
-    <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
-      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-      <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
+    <div class="title"><strong>EXPRESSO (EXpression PREdiction with Summary Statistics Only)</strong></div>
+    <div class="author"><small>Lida Wang, Dajiang Liu </small></div>
+    <div class="periodical"> <small> *STATGEN 2024 Invited Talk</small></div>
+     <div class="links">
+    <a href="https://www.nature.com/articles/s41467-024-48143-1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Nature Communications 2024</a>
     </div>
   </div>
 </div>
