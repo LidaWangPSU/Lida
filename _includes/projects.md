@@ -3,6 +3,16 @@
 <div class="publications">
 <ol class="bibliography">
 
+<style>
+badgenew {
+  background-color: blue;
+  color: white;
+  padding: 2px 6px;
+  text-align: center;
+  border-radius: 5px;
+}
+</style>
+  
 <li>
 <div class="pub-row">
 
