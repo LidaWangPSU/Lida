@@ -45,7 +45,24 @@
 </div>
 </li>
   
+<li>
+<div class="pub-row">
 
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/expresso.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Stat in Med</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><strong>Set-regression with applications to subgroup analysis</strong></div>
+    <div class="author"><small>Ao Yuan, Lida Wang, Min Tan </small></div>
+     <div class="links">
+    <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9229" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">SIM 2022</a>
+    </div>
+  </div>
+</div>
+</li>
+  
 
 <li>
 <div class="pub-row">
