@@ -1,8 +1,4 @@
 <h2 id="publications" style="margin: 2px 0px -15px;"> Projects</h2>
-
-<div class="publications">
-<ol class="bibliography">
-
 <style>
 badgenew {
   background-color: blue;
@@ -12,6 +8,9 @@ badgenew {
   border-radius: 5px;
 }
 </style>
+
+<div class="publications">
+<ol class="bibliography">
   
 <li>
 <div class="pub-row">
