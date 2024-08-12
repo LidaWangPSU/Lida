@@ -18,18 +18,20 @@ Prior to joining the Ph.D. program, I completed my master's degree in Biostatist
 
 
 ## Research Interests
-- **Statistical Genetics:*
-- **Functional Genomics:*
+- Functional Genomics: Explore the causal relationships between various omics data (such as transcriptomics, proteomics, and epigenetics) and human diseases.
+- Statistical Genetics: Assess the associations between genetic variants and human traits and predict disease risk.
+- Data Science: Develop and apply machine learning and deep learning models to analyze large-scale datasets and enhance the accuracy of predictive models.
+
 
 
 ## Awards and honors
-- *[2024] Vernon M. Chinchilli, PhD Award for Excellence in Biostatistics
-- *[2023] ASHG - Featured Plenary Oral Presentation (15/3000)
-- *[2023] ASHG - Predoctoral Trainee Research Excellence Finalist (9/900)
-- *[2023] ACGA - Predoctoral Trainee Awardee for Basic Research
-- *[2023] Finkelstein Memorial Trainee Research Award
-- *[2019] Statistical Genetics Summer Institutes Scholarship
-- *[2018] Biomedical Graduate Tuition Scholarship
+- [2024] Vernon M. Chinchilli, PhD Award for Excellence in Biostatistics
+- [2023] ASHG - Featured Plenary Oral Presentation (15/3000)
+- [2023] ASHG - Predoctoral Trainee Research Excellence Finalist (9/900)
+- [2023] ACGA - Predoctoral Trainee Awardee for Basic Research
+- [2023] Finkelstein Memorial Trainee Research Award
+- [2019] Statistical Genetics Summer Institutes Scholarship
+- [2018] Biomedical Graduate Tuition Scholarship
 
 
 
