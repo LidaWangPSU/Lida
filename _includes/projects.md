@@ -9,13 +9,13 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/jobs.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ASHG 2023</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>JOBS</strong></div>
-    <div class="author"><strong>Lida Wang</strong></div>
+    <div class="author"><strong>Lida Wang, Dajiang Liu.</strong></div>
     <div class="periodical"> <strong>ASHG 2023 Plenary Talk</strong></div>
      <div class="periodical"> <strong>ASHG 2023 Predoctoral Trainee Research Excellence Finalist</strong></div>
      <div class="periodical"> <strong>ACGA Predoctoral Trainee Awardee for Basic Researchk</strong></div>
