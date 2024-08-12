@@ -3,7 +3,20 @@
 <div class="publications">
 <ol class="bibliography">
 
+<li>
+<div class="pub-row">
 
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/gap.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ASHG 2024</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><strong>Improved Genetic Association analysis for preclinical -> disease Progression (GAP)</strong></div>
+    <div class="author"><small>Lida Wang, Havell Markus, Dajiang Liu </small></div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row">
@@ -14,7 +27,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong>JOBS (JOint analysis of Bulk-eQTL and Sc-eQTL)</strong></div>
+    <div class="title"><strong>JOint analysis of Bulk-eQTL and Sc-eQTL (JOBS)</strong></div>
     <div class="author"><small>Lida Wang, Dajiang Liu </small></div>
     <div class="periodical"> <small> *ASHG 2023 Plenary Talk and Predoctoral Trainee Research Excellence Finalist</small></div>
      <div class="periodical"> <small> *ACGA Predoctoral Trainee Awardee for Basic Research</small></div>
@@ -35,7 +48,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong>EXPRESSO (EXpression PREdiction with Summary Statistics Only)</strong></div>
+    <div class="title"><strong>EXpression PREdiction with Summary Statistics Only (EXPRESSO)</strong></div>
     <div class="author"><small>Lida Wang, Chachrit Khunsriraksakul, Dajiang Liu </small></div>
     <div class="periodical"> <small> *STATGEN 2024 Invited Talk</small></div>
      <div class="links">
