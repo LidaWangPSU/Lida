@@ -1,13 +1,13 @@
 <h2 id="publications" style="margin: 2px 0px -15px;"> Projects</h2>
-<style>
+
 badgenew {
-  background-color: blue;
+  background-color: #79A2DD;
   color: white;
   padding: 2px 6px;
   text-align: center;
   border-radius: 5px;
 }
-</style>
+
 
 <div class="publications">
 <ol class="bibliography">
