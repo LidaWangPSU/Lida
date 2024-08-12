@@ -3,8 +3,8 @@ url: "https://lidawangpsu.github.io/Lida-Wang.github.io/"
 title: Lida Wang (汪立达)
 # subtitle:
 position: Ph.D. Candidate
-affiliation: Penn State University
-subaffiliation: College of Medicine
+affiliation: Penn State University, College of Medicine
+#subaffiliation: College of Medicine
 email: lida.wang.96@gmail.com
 address: Herhsey, PA,  17033
 
@@ -17,7 +17,6 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=HpcTwCMAAAAJ&hl=zh-CN
-# cv_link: assets/files/HanchaoZhangCV.pdf
 github_link: https://github.com/LidaWangPSU
 linkedin: https://www.linkedin.com/in/lida-wang-309908193/
 twitter: https://x.com/LD_matrix
