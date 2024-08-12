@@ -8,7 +8,7 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/jobs.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Cell Under Revision</abbr>
   </div>
@@ -29,7 +29,7 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/expresso.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Nature Communications</abbr>
   </div>
@@ -50,7 +50,7 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/pumice.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Nature Communications</abbr>
   </div>
@@ -70,7 +70,7 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/setreg.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">SIM</abbr>
   </div>
