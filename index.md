@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a Ph.D. candidate in Biostatistics  Penn State University, working under the mentorship of Prof.<a href="https://dajiangliu.blog/" target="_blank"> Dajiang Liu</a>. My research focus in statistical genetics, functional genomics and data science.
+I'm a Ph.D. candidate in Biostatistics from Penn State University, working under the mentorship of Prof.<a href="https://dajiangliu.blog/" target="_blank"> Dajiang Liu</a>. My research focus in statistical genetics, functional genomics and data science.
 
 In the summer of 2023, I had the opportunity to work as a Research Data Scientist Intern at <a href="https://www.calicolabs.com/" target="_blank"> Calico</a>, a subsidiary of Alphabet, where I applied my statistical skills to real-world problems. 
 
