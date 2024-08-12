@@ -22,7 +22,7 @@ In the summer of 2023, I had the opportunity to work as a Research Data Scientis
 - [2023] ASHG - Featured Plenary Oral Presentation (15/3000)
 - [2023] ASHG - <a href="https://www.ashg.org/wp-content/uploads/2023/12/ASHG-Trainee-Research-for-Excellence-Awards-2023-Recipients.pdf" target="_blank"> Predoctoral Trainee Research Excellence Finalist </a> (9/900)
 - [2023] ACGA - Predoctoral Trainee Awardee for Basic Research
-- [2023] Finkelstein Memorial Trainee Research Award
+- [2023] <a href="[https://www.ashg.org/wp-content/uploads/2023/12/ASHG-Trainee-Research-for-Excellence-Awards-2023-Recipients.pdf](https://pennstatehealthnews.org/topics/finkelstein-award/)" target="_blank"> Finkelstein Memorial Trainee Research Award</a>
 - [2019] Statistical Genetics Summer Institutes Scholarship
 - [2018] Biomedical Graduate Tuition Scholarship
 
