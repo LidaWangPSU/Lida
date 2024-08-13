@@ -103,6 +103,26 @@
   </div>
 </div>
 </li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/kidney.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge" style="background-color: #337ab7; color: #ffffff;">Internship</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><strong>Genetic Analysis of Image-Derived Phenotypes in Kidney Substructures</strong></div>
+    <div class="author"><small>Lida Wang, , Madeleine Cule, Ramprakash Srinivasan, Kevin Wright, Elena Sorokin, Anil Raj, Jimmy Bell, 2023. </small></div>
+    <div class="periodical"> <small> *ASHG 2023 Plenary Talk and Predoctoral Trainee Research Excellence Finalist</small></div>
+    <div class="links">
+    <a href="assets/kidney_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+    </div>
+  </div>
+</div>
+</li>
   
 <li>
 <div class="pub-row">
