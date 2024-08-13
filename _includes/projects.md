@@ -6,9 +6,9 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 0px;padding-left: 0px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/gap.png" class="teaser img-fluid z-depth-1">
-    <abbr> <span class="badgenew"> ASHG 2024 </span> </abbr>
+    <abbr> class="badge"> ASHG 2024  </abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
