@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: " en-US" }}">
+<html lang="{{ site.lang | default: "en-US" }}">
 
 <head>
   <title>{{ site.title }}</title>
@@ -15,24 +15,45 @@
   <link rel="canonical" href="{{ site.canonical }}" />
   {% endif %}
 
-  <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
-  <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
-  <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
+  <!-- Only dark mode favicon -->
+  <link rel="icon" href="{{ site.favicon_dark }}" type="image/png" />
 
-  <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css
+  <link rel=stylesheet href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css"
     integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
-  <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css
+  <link rel=stylesheet href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css"
     integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
 
+  <!-- Dark mode CSS -->
   <link rel="stylesheet" href="./assets/css/style.css">
   <link rel="stylesheet" href="./assets/css/publications.css">
 
+  <style>
+    /* Ensure dark background and light text by default */
+    body {
+      background-color: #121212;
+      color: #e0e0e0;
+    }
+
+    /* Customize other elements as needed */
+    header, footer, section {
+      background-color: #1e1e1e;
+      color: #e0e0e0;
+    }
+
+    a {
+      color: #bb86fc;
+    }
+
+    /* Style images, icons, etc., for dark mode */
+    .image img {
+      filter: brightness(0.8);
+    }
+  </style>
 </head>
 
 <body>
   <div class="wrapper">
     <header>
-
       {% if site.avatar %}
       <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /> </a>
       {% endif %}
@@ -133,7 +154,7 @@
 
     </footer>
   </div>
-  <script src="{{ " /assets/js/scale.fix.js" | relative_url }}"></script>
+  <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   {% if site.google_analytics %}
   <script>
     (function (i, s, o, g, r, a, m) {
