@@ -7,7 +7,7 @@ layout: homepage
 
 I'm currently pursuing a Ph.D. in Biostatistics at Penn State University, where I work under the mentorship of Prof. <a href="https://dajiangliu.blog/" target="_blank">Dajiang Liu</a>. My research is centered on statistical genetics, functional genomics, and data science.
 
-In the summer of 2023, I gained valuable experience as a Research Data Scientist Intern at <a href="https://www.calicolabs.com/" target="_blank">Calico</a>, a subsidiary of Alphabet. 
+In the summer of 2023, I gained valuable experience as a Research Data Scientist Intern at <a href="https://www.calicolabs.com/" target="_blank">Calico</a>, a subsidiary of Alphabet, where I worked with <a href="https://www.calicolabs.com/people/madeleine-cule-ph-d/" target="_blank">Dr. Madeleine Cule</a> and her team.
 
 Before starting my Ph.D. program, I earned a master’s degree in Biostatistics from <a href="https://www.georgetown.edu/" target="_blank">Georgetown University</a>, where I was advised by Prof. Ao Yuan and Min Tan. I got my bachelor’s degree in Mathematics and Applied Mathematics from the <a href="https://www.sustech.edu.cn/en/" target="_blank">Southern University of Science and Technology</a>, where I was mentored by Prof. Guoliang Tian.
 
