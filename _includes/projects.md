@@ -8,7 +8,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/gap.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge"> ASHG 2024  </abbr>
+    <abbr class="badge" style="background-color: #337ab7; color: #ffffff;"> ASHG 2024  </abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
