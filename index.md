@@ -26,7 +26,7 @@ Before starting my Ph.D. program, I earned a master’s degree in Biostatistics 
 - [2023] ACGA - Predoctoral Trainee Awardee for Basic Research
 - [2023] <a href="https://pennstatehealthnews.org/topics/finkelstein-award/" target="_blank"> Finkelstein Memorial Trainee Research Award</a>
 - [2019] Statistical Genetics Summer Institutes Scholarship - University of Washington
-- [2018] Biomedical Graduate Tuition Scholarship - Georegetown University
+- [2018] Biomedical Graduate Tuition Scholarship - Georgetown University
 
 ## Selected Publication
 - [2024] Wang, L.., Markus, H., Chen, D., Liu, D., et al. An atlas of single cell expression quantitative trait loci from whole blood resolves autoimmune diseases associated genes. (Cell under revision). 
