@@ -90,7 +90,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong>Prediction using models informed by chromatin conformations and epigenomics (PUMICE) </strong></div>
+    <div class="title"><strong>Prediction Using Models Informed by Chromatin conformations and Epigenomics (PUMICE) </strong></div>
     <div class="author"><small>Chachrit Khunsriraksakul, Lida Wang, Dajiang Liu, 2020-2022 </small></div>
      <div class="links">
     <a href="https://www.nature.com/articles/s41467-022-30956-7" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">NC 2022</a>
