@@ -20,13 +20,13 @@ Before starting my Ph.D. program, I earned a master’s degree in Biostatistics 
 {% include_relative _includes/projects.md %}
 
 ## Awards and honors
-- [2024] Vernon M. Chinchilli, PhD Award for Excellence in Biostatistics
+- [2024] Vernon M. Chinchilli, PhD Award for Excellence in Biostatistics - Penn State University
 - [2023] ASHG - <a href="https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PlenaryAbstracts.pdf" target="_blank"> Featured Plenary Oral Presentation </a>  (15/3000) 
 - [2023] ASHG - <a href="https://www.ashg.org/wp-content/uploads/2023/12/ASHG-Trainee-Research-for-Excellence-Awards-2023-Recipients.pdf" target="_blank"> Predoctoral Trainee Research Excellence Finalist </a> (9/900)
 - [2023] ACGA - Predoctoral Trainee Awardee for Basic Research
 - [2023] <a href="https://pennstatehealthnews.org/topics/finkelstein-award/" target="_blank"> Finkelstein Memorial Trainee Research Award</a>
-- [2019] Statistical Genetics Summer Institutes Scholarship
-- [2018] Biomedical Graduate Tuition Scholarship
+- [2019] Statistical Genetics Summer Institutes Scholarship - University of Washington
+- [2018] Biomedical Graduate Tuition Scholarship - Georegetown University
 
 ## Selected Publication
 - [2024] Wang, L.., Markus, H., Chen, D., Liu, D., et al. An atlas of single cell expression quantitative trait loci from whole blood resolves autoimmune diseases associated genes. (Cell under revision). 
