@@ -19,7 +19,6 @@
 </div>
 </li>
 
- 
 <li>
 <div class="pub-row">
 
@@ -31,7 +30,6 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>Bulk And Single cell eQTL Integration across Cell types (BASIC)</strong></div>
     <div class="author"><small>Shuang Gao, Lida Wang, Dajiang Liu, 2023-now.</small></div>
-    <div class="periodical"> <small> *Invited talk in NIDA Genetics and Epigenetics Cross-Cutting Research Team Meeting 2024</small></div>
   </div>
 </div>
 </li>
