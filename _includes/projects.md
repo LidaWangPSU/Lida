@@ -49,7 +49,7 @@
     <div class="periodical"> <small> *ASHG 2023 Plenary Talk and Predoctoral Trainee Research Excellence Finalist</small></div>
      <div class="periodical"> <small> *ACGA Predoctoral Trainee Awardee for Basic Research</small></div>
     <div class="links">
-    <a href="https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PlenaryAbstracts.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    <a href="https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PlenaryAbstracts.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
     <a href="https://github.com/LidaWangPSU/JOBS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
     </div>
   </div>
