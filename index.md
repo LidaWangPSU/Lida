@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## Bio
 
 I'm a Ph.D. candidate in Biostatistics from Penn State University, working under the mentorship of Prof.<a href="https://dajiangliu.blog/" target="_blank"> Dajiang Liu</a>. My research focus in statistical genetics, functional genomics and data science.
 
