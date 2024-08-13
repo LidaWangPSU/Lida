@@ -19,13 +19,13 @@
 </div>
 </li>
 
-<!-- 
+ 
 <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/basic.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge"> In prep. </abbr>
+    <abbr class="badge" style="background-color: #337ab7; color: #ffffff;"> In prep. </abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -34,14 +34,14 @@
     <div class="periodical"> <small> *Invited talk in NIDA Genetics and Epigenetics Cross-Cutting Research Team Meeting 2024</small></div>
   </div>
 </div>
-</li>-->
+</li>
 
 <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/jobs.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Cell Under Revision</abbr>
+    <abbr class="badge" style="background-color: #337ab7; color: #ffffff;">Cell Under Revision</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -63,7 +63,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/expresso.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Nature Communications</abbr>
+    <abbr class="badge" style="background-color: #337ab7; color: #ffffff;">Nature Communications</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -86,7 +86,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/pumice.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Nature Communications</abbr>
+    <abbr class="badge" style="background-color: #337ab7; color: #ffffff;">Nature Communications</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -108,7 +108,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/setreg.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Statistics in Medicine</abbr>
+    <abbr class="badge" style="background-color: #337ab7; color: #ffffff;">Statistics in Medicine</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
