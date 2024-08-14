@@ -74,6 +74,7 @@
      <div class="links">
     <a href="https://www.nature.com/articles/s41467-024-48143-1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">NC 2024</a>
     <a href="https://github.com/LidaWangPSU/EXPRESSO" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+    <a href="https://github.com/LidaWangPSU/Lida/blob/master/assets/expresso.poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
     </div>
   </div>
 </div>
