@@ -91,7 +91,6 @@
     <div class="title"><strong>Genetic Analysis of Image-Derived Phenotypes in Kidney Substructures</strong></div>
     <div class="author"><small>Lida Wang, , Madeleine Cule, Ramprakash Srinivasan, Kevin Wright, Elena Sorokin, Anil Raj, Jimmy Bell, 2023. </small></div>
     <div class="links">
-    <a href="https://github.com/LidaWangPSU/Lida-Wang.github.io/blob/master/assets/kidney_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
     </div>
   </div>
 </div>
