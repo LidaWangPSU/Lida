@@ -51,6 +51,7 @@
     <div class="links">
     <a href="https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PlenaryAbstracts.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
     <a href="https://github.com/LidaWangPSU/JOBS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+    <a href="https://github.com/LidaWangPSU/Lida/blob/master/assets/jobs.poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
     </div>
   </div>
 </div>
