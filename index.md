@@ -16,6 +16,8 @@ Before starting my Ph.D. program, I earned a master’s degree in Biostatistics 
 - Functional Genomics: Explore the causal relationships between multi-omics data (transcriptomics, proteomics, and epigenetics) and human diseases.
 - Statistical Genetics: Assess the associations between genetic variants and human traits and predict disease risk.
 - Data Science: Develop and apply machine learning and deep learning models to analyze large-scale datasets and enhance the accuracy of predictive models.
+  
+{% include_relative _includes/projects.md %}
 
 ## Awards and honors
 - [2024] Vernon M. Chinchilli, PhD Award for Excellence in Biostatistics - Penn State University
@@ -25,8 +27,6 @@ Before starting my Ph.D. program, I earned a master’s degree in Biostatistics 
 - [2023] <a href="https://pennstatehealthnews.org/topics/finkelstein-award/" target="_blank"> Finkelstein Memorial Trainee Research Award</a>
 - [2019] Statistical Genetics Summer Institutes Scholarship - University of Washington
 - [2018] Biomedical Graduate Tuition Scholarship - Georgetown University
-
-{% include_relative _includes/projects.md %}
 
 ## Selected Publication
 - [2024] Wang, L.., Markus, H., Chen, D., Liu, D., et al. An atlas of single cell expression quantitative trait loci from whole blood resolves autoimmune diseases associated genes. (Cell under revision). 
