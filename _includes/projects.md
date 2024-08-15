@@ -14,7 +14,8 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>Improved Genetic Association analysis for preclinical -> disease Progression (GAP)</strong></div>
     <div class="author"><small>Lida Wang, Havell Markus, Dajiang Liu, 2024-now. </small></div>
-    <div class="periodical"> <small> *ASHG 2024 poster presentation</small></div>
+    <div class="periodical"> <small> *ASHG 2024 Predoctoral Trainee Research Excellence Semi-finalist</small></div>
+     <div class="periodical"> <small> *ASHG 2024 Reviewers’ Choice Abstract</small></div>
   </div>
 </div>
 </li>
