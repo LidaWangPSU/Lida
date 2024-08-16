@@ -38,7 +38,7 @@ Before starting my Ph.D. program, I earned a master’s degree in Biostatistics 
 - [2022] Yuan A., Wang L., Tan MT.<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9229" target="_blank"> Set-regression with applications to subgroup analysis. </a> Statistics in Medicine. 2022;41(1):180-193.
 
 ## Invited Talks
-# A single cell eQTL atlas for cell type specific regulatory effectss
+### A single cell eQTL atlas for cell type specific regulatory effectss
 - Oral talk, ACGA Virtual Seminar, Feb. 2024
 - Oral talk, American Society of Human Genetics Annual Meetings, Washington, DC, Nov. 2023
 - Oral talk, Student-Led Seminar, Hershey, PA, Oct. 2023
