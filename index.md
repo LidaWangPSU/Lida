@@ -37,6 +37,8 @@ Before starting my Ph.D. program, I earned a master’s degree in Biostatistics 
 - [2022] Khunsriraksakul, C., ..., Wang, L., et al. <a href="https://www.nature.com/articles/s41467-022-30956-7" target="_blank"> Integrating 3D genomic and epigenomic data to enhance target gene discovery and drug repurposing in transcriptome-wide association studies. </a> Nat Commun 13, 3258 (2022).
 - [2022] Yuan A., Wang L., Tan MT.<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9229" target="_blank"> Set-regression with applications to subgroup analysis. </a> Statistics in Medicine. 2022;41(1):180-193.
 
+{% include_relative _includes/talks.md %}
+
 ## Resources
 - [2024] <a href="https://magazine.amstat.org/blog/2024/08/01/lidawang/" target="_blank"> AMSTATS News </a> spotlight on Lida Wang. 
 - [2024] <a href="https://www.psu.edu/news/research/story/new-ai-algorithm-may-improve-autoimmune-disease-prediction-and-therapies/" target="_blank"> Penn State News</a> features our EXPRESSO work.
