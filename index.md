@@ -37,21 +37,6 @@ Before starting my Ph.D. program, I earned a master’s degree in Biostatistics 
 - [2022] Khunsriraksakul, C., ..., Wang, L., et al. <a href="https://www.nature.com/articles/s41467-022-30956-7" target="_blank"> Integrating 3D genomic and epigenomic data to enhance target gene discovery and drug repurposing in transcriptome-wide association studies. </a> Nat Commun 13, 3258 (2022).
 - [2022] Yuan A., Wang L., Tan MT.<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9229" target="_blank"> Set-regression with applications to subgroup analysis. </a> Statistics in Medicine. 2022;41(1):180-193.
 
-## Invited Talks
-  ### A single cell eQTL atlas for cell type specific regulatory effectss
-- Oral talk, ACGA Virtual Seminar, Feb. 2024
-- Oral talk, American Society of Human Genetics Annual Meetings, Washington, DC, Nov. 2023
-- Oral talk, Student-Led Seminar, Hershey, PA, Oct. 2023
-
-### Dissecting systemic lupus erythematosus associated genetic loci at single cell resolution
-- Oral talk, Rheumatology Research Day, Hershey, PA, Oct. 2023
-
-### Genetic analysis of image-derived phenotype in kidney substructures
-- Oral talk, Calico Life Science LLC, South San Francisco, CA, Aug. 2023
-
-### Prediction Using Models Informed by Chromatin conformations, Epigenomics and Summary Statistics
-- Oral talk, Student-Led Seminar, Hershey, PA, Oct. 2022
-
 ## Resources
 - [2024] <a href="https://magazine.amstat.org/blog/2024/08/01/lidawang/" target="_blank"> AMSTATS News </a> spotlight on Lida Wang. 
 - [2024] <a href="https://www.psu.edu/news/research/story/new-ai-algorithm-may-improve-autoimmune-disease-prediction-and-therapies/" target="_blank"> Penn State News</a> features our EXPRESSO work.
