@@ -21,7 +21,7 @@ Before starting my Ph.D. program, I earned a master’s degree in Biostatistics 
 
 ## Awards and honors
 - [2024] ASHG - Reviewers’ Choice Abstract (10%)
-- [2024] ASHG - Predoctoral Trainee Research Excellence Semi-finalist (60/800)
+- [2024] ASHG - Predoctoral Trainee Research Excellence Semi-finalist (60/900)
 - [2024] Vernon M. Chinchilli, PhD Award for Excellence in Biostatistics - Penn State University
 - [2023] ASHG - <a href="https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PlenaryAbstracts.pdf" target="_blank"> Featured Plenary Oral Presentation </a>  (15/3000) 
 - [2023] ASHG - <a href="https://www.ashg.org/wp-content/uploads/2023/12/ASHG-Trainee-Research-for-Excellence-Awards-2023-Recipients.pdf" target="_blank"> Predoctoral Trainee Research Excellence Finalist </a> (18/900)
