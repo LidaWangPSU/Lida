@@ -5,7 +5,7 @@ layout: homepage
 ## Bio
 
 
-I'm currently pursuing a Ph.D. in Biostatistics at <a href="https://www.psu.edu/" target="_blank">Penn State University</a>, where I work under the mentorship of Prof. <a href="https://dajiangliu.blog/" target="_blank">Dajiang Liu</a>. My research is centered on statistical genetics, functional genomics, and data science.
+I'm a Ph.D. candidate in Biostatistics at <a href="https://www.psu.edu/" target="_blank">Penn State University</a>, where I work under the mentorship of Prof. <a href="https://dajiangliu.blog/" target="_blank">Dajiang Liu</a>. My research is centered on statistical genetics, functional genomics, and data science.
 
 In the summer of 2023, I gained valuable experience as a Research Data Scientist Intern at <a href="https://www.calicolabs.com/" target="_blank">Calico</a>, a subsidiary of Alphabet, where I worked with Dr. <a href="https://www.calicolabs.com/people/madeleine-cule-ph-d/" target="_blank">Madeleine Cule</a> and her team.
 
