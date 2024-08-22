@@ -176,5 +176,5 @@ Our project uses the source code from the following repositories:
 * [al-folio](https://github.com/alshedivat/al-folio)
 
 ##
-[Lida Wang] (https:lidawangpsu.github.io/Lida/) personal website.
+[Lida Wang](https:lidawangpsu.github.io/Lida/) personal website.
   
