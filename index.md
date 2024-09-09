@@ -54,4 +54,4 @@ Before starting my Ph.D. program, I earned a master’s degree in Biostatistics 
 <br />
 <strong>Phone:</strong> (202) 375-0976</p>
 
-<a href="https://clustrmaps.com/site/1c0uj" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=200&t=n&d=vkrzfkL2KOfv72jrrfV85BrKIRl2M8Z5ItYMPxR4AgE&co=ffffff&ct=808080" /></a>
+<img src="//clustrmaps.com/map_v2.png?cl=080808&w=200&t=n&d=vkrzfkL2KOfv72jrrfV85BrKIRl2M8Z5ItYMPxR4AgE&co=ffffff&ct=808080" />
