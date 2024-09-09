@@ -44,3 +44,4 @@ Before starting my Ph.D. program, I earned a master’s degree in Biostatistics 
   
 {% include_relative _includes/talks.md %}
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=vkrzfkL2KOfv72jrrfV85BrKIRl2M8Z5ItYMPxR4AgE&cl=ffffff&w=a"></script>
