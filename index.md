@@ -44,4 +44,14 @@ Before starting my Ph.D. program, I earned a master’s degree in Biostatistics 
   
 {% include_relative _includes/talks.md %}
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=vkrzfkL2KOfv72jrrfV85BrKIRl2M8Z5ItYMPxR4AgE&cl=ffffff&w=a"></script>
+<h2 style="margin: 60px 0px 10px;">Contact</h2>
+
+<p><strong>Address:</strong> 90 Hope Dr, Hershey, PA 17033
+<br />
+<strong>Office Location:</strong> Room 4403 
+<br />
+<strong>Email:</strong> <email>lida.wang.96 (at) gmail.com</email>
+<br />
+<strong>Phone:</strong> (202) 375-0976</p>
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=vkrzfkL2KOfv72jrrfV85BrKIRl2M8Z5ItYMPxR4AgE"></script>
