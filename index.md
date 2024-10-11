@@ -17,7 +17,7 @@ Before starting my Ph.D. program, I earned a master’s degree in Biostatistics 
 - Statistical Genetics: Assess the associations between genetic variants and human traits and predict disease risk.
 - Data Science: Develop and apply machine learning and deep learning models to analyze large-scale datasets and enhance the accuracy of predictive models.
   
-{% include_relative _includes/projects.md %}
+{% include_relative _includes/projects.new.md %}
 
 ## Awards and honors
 - [2024] ASHG - Reviewers’ Choice Abstract (10%)
