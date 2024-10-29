@@ -6,27 +6,29 @@
 <h4 style="margin:0 10px 0;">A single cell eQTL atlas for cell type specific regulatory effectss.</h4>
 
 <ul style="margin:0 0 5px;">
-   <li>Multi-Omics Symposium, Hershey, PA, Oct. 2024</li>
+   <li>Multi-Omics Symposium, Hershey, PA, US, Oct. 2024</li>
   <li>ACGA Virtual Seminar, Feb. 2024</li>
-  <li>American Society of Human Genetics Annual Meetings, Washington, DC, Nov. 2023</li>
-  <li>Student-Led Seminar, Hershey, PA, Oct. 2023</li>
+  <li>American Society of Human Genetics Annual Meetings, Washington, DC, US, Nov. 2023</li>
+  <li>Student-Led Seminar, Hershey, PA, US, Oct. 2023</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Dissecting systemic lupus erythematosus associated genetic loci at single cell resolution</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>Rheumatology Research Day, Hershey, PA, Oct. 2023</li>
+  <li>Rheumatology Research Day, Hershey, PA, US, Oct. 2023</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Genetic analysis of image-derived phenotype in kidney substructures</h4>
 
 <ul style="margin:0 0 5px;">
-   <li>Student-Led Seminar, Hershey, PA, Sep. 2023</li>
-  <li>Calico Life Science LLC, South San Francisco, CA, Aug. 2023</li>
+   <li>Student-Led Seminar, Hershey, PA, US, Sep. 2023</li>
+  <li>Calico Life Science LLC, South San Francisco, CA, US, Aug. 2023</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Prediction Using Models Informed by Chromatin conformations, Epigenomics and Summary Statistics</h4>
+<h4 style="margin:0 10px 0;">Integrating single cell expression quantitative trait loci summary statistics to understand complex trait risk genes</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>Student-Led Seminar, Hershey, PA, Oct. 2022</li>
+  <li>Statistical, Computational, Translational, and Ethical Challenges in Biobank Data Analysis workshop, Banff, Canada,Jul. 2024</li>
+  <li>STATGEN 2024, Pittsburgh, PA, US, May. 2024</li>
+  <li>Student-Led Seminar, Hershey, PA, US, Oct. 2022</li>
 </ul>
