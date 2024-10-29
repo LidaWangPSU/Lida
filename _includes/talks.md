@@ -30,5 +30,6 @@
 <ul style="margin:0 0 5px;">
   <li>Statistical, Computational, Translational, and Ethical Challenges in Biobank Data Analysis workshop (presentaed by Prof. <a href="https://dajiangliu.blog/" target="_blank">Dajiang Liu</a>), Banff, Canada, Jul. 2024</li>
   <li>STATGEN 2024 (presentaed by Prof. <a href="https://dajiangliu.blog/" target="_blank">Dajiang Liu</a>), Pittsburgh, PA, US, May. 2024</li>
+  <li>ASHG 2022 poster talk, Los Angeles, CA, US, Nov. 2022</li>
   <li>Student-Led Seminar, Hershey, PA, US, Oct. 2022</li>
 </ul>
