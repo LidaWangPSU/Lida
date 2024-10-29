@@ -12,20 +12,20 @@
   <li>Student-Led Seminar, Hershey, PA, US, Oct. 2023</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Dissecting systemic lupus erythematosus associated genetic loci at single cell resolution</h4>
+<h3 style="margin:0 10px 0;">Dissecting systemic lupus erythematosus associated genetic loci at single cell resolution</h3>
 
 <ul style="margin:0 0 5px;">
   <li>Rheumatology Research Day, Hershey, PA, US, Oct. 2023</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Genetic analysis of image-derived phenotype in kidney substructures</h4>
+<h3 style="margin:0 10px 0;">Genetic analysis of image-derived phenotype in kidney substructures</h3>
 
 <ul style="margin:0 0 5px;">
    <li>Student-Led Seminar, Hershey, PA, US, Sep. 2023</li>
   <li>Calico Life Science LLC, South San Francisco, CA, US, Aug. 2023</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Integrating single cell expression quantitative trait loci summary statistics to understand complex trait risk genes</h4>
+<h3 style="margin:0 10px 0;">Integrating single cell expression quantitative trait loci summary statistics to understand complex trait risk genes</h3>
 
 <ul style="margin:0 0 5px;">
   <li>Statistical, Computational, Translational, and Ethical Challenges in Biobank Data Analysis workshop (presentaed by Prof. <a href="https://dajiangliu.blog/" target="_blank">Dajiang Liu</a>), Banff, Canada, Jul. 2024</li>
