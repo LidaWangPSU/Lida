@@ -28,7 +28,7 @@
 <h4 style="margin:0 10px 0;">Integrating single cell expression quantitative trait loci summary statistics to understand complex trait risk genes</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>Statistical, Computational, Translational, and Ethical Challenges in Biobank Data Analysis workshop, Banff, Canada, Jul. 2024</li>
-  <li>STATGEN 2024, Pittsburgh, PA, US, May. 2024</li>
+  <li>Statistical, Computational, Translational, and Ethical Challenges in Biobank Data Analysis workshop (presentaed by Prof. Liu), Banff, Canada, Jul. 2024</li>
+  <li>STATGEN 2024 (presentaed by Prof. Liu), Pittsburgh, PA, US, May. 2024</li>
   <li>Student-Led Seminar, Hershey, PA, US, Oct. 2022</li>
 </ul>
