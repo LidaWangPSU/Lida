@@ -3,7 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">Invited Talks</h2>
 
 
-<h4 style="margin:0 10px 0;">A single cell eQTL atlas for cell type specific regulatory effectss.</h4>
+<h3 style="margin:0 10px 0;">A single cell eQTL atlas for cell type specific regulatory effectss.</h3>
 
 <ul style="margin:0 0 5px;">
    <li>Multi-Omics Symposium, Hershey, PA, US, Oct. 2024</li>
