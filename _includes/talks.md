@@ -21,6 +21,7 @@
 <h4 style="margin:0 10px 0;">Genetic analysis of image-derived phenotype in kidney substructures</h4>
 
 <ul style="margin:0 0 5px;">
+   <li>Student-Led Seminar, Hershey, PA, Sep. 2023</li>
   <li>Calico Life Science LLC, South San Francisco, CA, Aug. 2023</li>
 </ul>
 
