@@ -6,6 +6,7 @@
 <h4 style="margin:0 10px 0;">A single cell eQTL atlas for cell type specific regulatory effectss.</h4>
 
 <ul style="margin:0 0 5px;">
+   <li>Multi-Omics Symposium, Hershey, PA, Oct. 2024</li>
   <li>ACGA Virtual Seminar, Feb. 2024</li>
   <li>American Society of Human Genetics Annual Meetings, Washington, DC, Nov. 2023</li>
   <li>Student-Led Seminar, Hershey, PA, Oct. 2023</li>
