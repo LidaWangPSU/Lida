@@ -31,7 +31,7 @@ Before starting my Ph.D. program, I earned a master’s degree in Biostatistics 
 - [2018] Georgetown University - Biomedical Graduate Tuition Scholarship
 
 ## Selected Publication
-- [2024] Wang, L., Markus, H., et al. Improved Genetic Association analysis identifies 29 novel loci influencing preclinical to disease Progression in lupus.(In prep)
+- [2024] Wang, L., Markus, H., et al. Improved Genetic Association analysis identifies 29 novel loci influencing preclinical to disease Progression in lupus.(In prep.)
 - [2024] Gao, S.∗, Wang, L.∗, et al. Integrating Bulk and Single-Cell RNA Seq Data to Unravel Brain Cell Type-Specific Genetic Signals in Addiction Traits. (In prep.)
 - [2024] Wang, L.., Markus, H., Chen, D., Liu, D., et al. An atlas of single cell expression quantitative trait loci from whole blood resolves autoimmune diseases associated genes. (Cell under revision). 
 - [2024] Tan, Y., Wang, L., Zhang, H. et al. <a href="https://www.nature.com/articles/s42003-024-07010-x" target="_blank"> Interpretable GWAS by linking clinical phenotypes to quantifiable immune repertoire components.</a> Commun Biol 7, 1357 (2024). 
