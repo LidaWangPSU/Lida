@@ -13,7 +13,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>JOint analysis of Bulk-eQTL and Sc-eQTL (JOBS)</strong></div>
-    <div class="author"><small>Lida Wang, Havell Markus, Dajiang Liu, 2022-now. </small></div>
+    <div class="author"><small>Lida Wang, Havell Markus, Dajiang Liu, 2022-2024. </small></div>
     <div class="periodical"> <small> *ASHG 2023 Featured Plenary Talk</small></div>
     <div class="periodical"> <small> *ASHG 2023 Predoctoral Trainee Research Excellence Finalist</small></div>
      <div class="periodical"> <small> *ACGA Predoctoral Trainee Awardee for Basic Research</small></div>
