@@ -6,7 +6,9 @@
 <h3 style="margin:10px 0px 5px;">A single cell eQTL atlas for cell type specific regulatory effectss.</h3>
 
 <ul style="margin:0 0 5px;">
-   <li>Multi-Omics Symposium, Hershey, PA, US, Oct. 2024</li>
+  <li>Dana-farber cancer institute, Boston, MA, US, Feb. 2025</li>
+  <li>University of Pennsylvania, Philadelphia, PA, US, Feb. 2025</li>
+  <li>Multi-Omics Symposium, Hershey, PA, US, Oct. 2024</li>
   <li>ACGA Virtual Seminar, Feb. 2024</li>
   <li>American Society of Human Genetics Annual Meetings, Washington, DC, US, Nov. 2023</li>
   <li>Student-Led Seminar, Hershey, PA, US, Oct. 2023</li>
