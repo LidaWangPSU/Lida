@@ -7,7 +7,7 @@
 
 <ul style="margin:0 0 5px;">
   <li>Dana-farber cancer institute, Boston, MA, US, Feb. 2025</li>
-  <li>University of Pennsylvania, Philadelphia, PA, US, Feb. 2025</li>
+  <li>University of Pennsylvania, Philadelphia, PA, US, Jan. 2025</li>
   <li>Multi-Omics Symposium, Hershey, PA, US, Oct. 2024</li>
   <li>ACGA Virtual Seminar, Feb. 2024</li>
   <li>American Society of Human Genetics Annual Meetings, Washington, DC, US, Nov. 2023</li>
