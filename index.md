@@ -14,7 +14,7 @@ Before starting my Ph.D. program, I earned a master’s degree in Biostatistics 
 
 ## Research Interests
 - How can regulatory effects be modeled and assessed at single-cell resolution?
-- How can genetic and clinical data be leveraged to prevent disease progression?
+- How can genetics and clinical data be leveraged to prevent disease progression?
 - How can genetics and multi-omics data be utilized to inform drug development?
 
   
