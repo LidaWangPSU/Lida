@@ -13,9 +13,10 @@ Before starting my Ph.D. program, I earned a master’s degree in Biostatistics 
 
 
 ## Research Interests
-- Functional Genomics: Explore the causal relationships between multi-omics data (transcriptomics, proteomics, and epigenetics) and human diseases.
-- Statistical Genetics: Assess the associations between genetic variants and human traits and predict disease risk.
-- Data Science: Develop and apply machine learning and deep learning models to analyze large-scale datasets and enhance the accuracy of predictive models.
+- How can regulatory effects be modeled and assessed at single-cell resolution?
+- How can genetic and clinical data be leveraged to prevent disease progression?
+- How can genetics and multi-omics data be utilized to inform drug development?
+
   
 {% include_relative _includes/projects.new.md %}
 
