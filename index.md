@@ -19,6 +19,15 @@ Before starting my Ph.D. program, I earned a master’s degree in Biostatistics 
   
 {% include_relative _includes/projects.new.md %}
 
+## Selected Publication
+- [2025] Wang, L.,∗ Markus, H.∗, et al. Improved Genetic Association analysis identifies 29 novel loci influencing preclinical to disease Progression in lupus.(In prep.)
+- [2025] Wang, L.∗, Gao, S.∗, et al. Looking beyond cell types: integrative analysis of axis-QTL and GWAS unveils novel genomic and translational insights into brain related traits. (In prep.)
+- [2025] Wang, L.∗, Markus, H.∗, Chen, D., Liu, D., et al. An atlas of single cell expression quantitative trait loci from whole blood resolves autoimmune diseases associated genes. (Accepted by Cell Genomics). 
+- [2024] Tan, Y., Wang, L., Zhang, H. et al. <a href="https://www.nature.com/articles/s42003-024-07010-x" target="_blank"> Interpretable GWAS by linking clinical phenotypes to quantifiable immune repertoire components.</a> Commun Biol 7, 1357 (2024). 
+- [2023] Wang, L.., Khunsriraksakul, C., et al. <a href="https://www.nature.com/articles/s41467-024-48143-1" target="_blank"> Integrating single cell expression quantitative trait loci summary statistics to understand complex trait risk genes.</a>  Nat Commun 15, 4260 (2024) 
+- [2022] Khunsriraksakul, C., ..., Wang, L., et al. <a href="https://www.nature.com/articles/s41467-022-30956-7" target="_blank"> Integrating 3D genomic and epigenomic data to enhance target gene discovery and drug repurposing in transcriptome-wide association studies. </a> Nat Commun 13, 3258 (2022).
+- [2022] Yuan A., Wang L., Tan MT.<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9229" target="_blank"> Set-regression with applications to subgroup analysis. </a> Statistics in Medicine. 2022;41(1):180-193.
+
 ## Awards and honors
 - [2024] ASHG - Reviewers’ Choice Abstract (10%)
 - [2024] ASHG - Predoctoral Trainee Research Excellence Semi-finalist (5%)
@@ -29,15 +38,6 @@ Before starting my Ph.D. program, I earned a master’s degree in Biostatistics 
 - [2023] Penn State University - <a href="https://pennstatehealthnews.org/topics/finkelstein-award/" target="_blank"> Finkelstein Memorial Trainee Research Award</a>
 - [2019] University of Washington - Statistical Genetics Summer Institutes Scholarship
 - [2018] Georgetown University - Biomedical Graduate Tuition Scholarship
-
-## Selected Publication
-- [2025] Wang, L.,∗ Markus, H.∗, et al. Improved Genetic Association analysis identifies 29 novel loci influencing preclinical to disease Progression in lupus.(In prep.)
-- [2025] Wang, L.∗, Gao, S.∗, et al. Looking beyond cell types: integrative analysis of axis-QTL and GWAS unveils novel genomic and translational insights into brain related traits. (In prep.)
-- [2025] Wang, L.∗, Markus, H.∗, Chen, D., Liu, D., et al. An atlas of single cell expression quantitative trait loci from whole blood resolves autoimmune diseases associated genes. (Accepted by Cell Genomics). 
-- [2024] Tan, Y., Wang, L., Zhang, H. et al. <a href="https://www.nature.com/articles/s42003-024-07010-x" target="_blank"> Interpretable GWAS by linking clinical phenotypes to quantifiable immune repertoire components.</a> Commun Biol 7, 1357 (2024). 
-- [2023] Wang, L.., Khunsriraksakul, C., et al. <a href="https://www.nature.com/articles/s41467-024-48143-1" target="_blank"> Integrating single cell expression quantitative trait loci summary statistics to understand complex trait risk genes.</a>  Nat Commun 15, 4260 (2024) 
-- [2022] Khunsriraksakul, C., ..., Wang, L., et al. <a href="https://www.nature.com/articles/s41467-022-30956-7" target="_blank"> Integrating 3D genomic and epigenomic data to enhance target gene discovery and drug repurposing in transcriptome-wide association studies. </a> Nat Commun 13, 3258 (2022).
-- [2022] Yuan A., Wang L., Tan MT.<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9229" target="_blank"> Set-regression with applications to subgroup analysis. </a> Statistics in Medicine. 2022;41(1):180-193.
 
 ## Resources
 - [2024] AMSTATS News <a href="https://magazine.amstat.org/blog/2024/08/01/lidawang/" target="_blank"> [1] </a> <a href="https://www.linkedin.com/posts/american-statistical-association---asa_newmember-postdoc-statistician-activity-7231299544515301377-9A8Q?utm_source=share&utm_medium=member_desktop" target="_blank"> [2] </a> spotlight on Lida Wang. 
