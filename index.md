@@ -21,8 +21,6 @@ Before starting my Ph.D. program, I earned a master’s degree in Biostatistics 
 {% include_relative _includes/projects.new.md %}
 
 ## Selected Publication
-- [2025] Wang, L.,∗ Markus, H.∗, et al. Improved Genetic Association analysis identifies 29 novel loci influencing preclinical to disease Progression in lupus.(In prep.)
-- [2025] Wang, L.∗, Gao, S.∗, et al. Looking beyond cell types: integrative analysis of axis-QTL and GWAS unveils novel genomic and translational insights into brain related traits. (In prep.)
 - [2025] Wang, L.∗, Markus, H.∗, Chen, D., Liu, D., et al. An atlas of single cell expression quantitative trait loci from whole blood resolves autoimmune diseases associated genes. (Accepted by Cell Genomics). 
 - [2024] Tan, Y., Wang, L., Zhang, H. et al. <a href="https://www.nature.com/articles/s42003-024-07010-x" target="_blank"> Interpretable GWAS by linking clinical phenotypes to quantifiable immune repertoire components.</a> Commun Biol 7, 1357 (2024). 
 - [2023] Wang, L.., Khunsriraksakul, C., et al. <a href="https://www.nature.com/articles/s41467-024-48143-1" target="_blank"> Integrating single cell expression quantitative trait loci summary statistics to understand complex trait risk genes.</a>  Nat Commun 15, 4260 (2024) 
