@@ -3,6 +3,27 @@
 <div class="publications">
 <ol class="bibliography">
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/jobs.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge" style="background-color: #337ab7; color: #ffffff;">Cell Genomics</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><strong>JOint analysis of Bulk-eQTL and Sc-eQTL (JOBS)</strong></div>
+    <div class="author"><small>Lida Wang, Havell Markus, Dajiang Liu, 2022-2024. </small></div>
+    <div class="periodical"> <small> *ASHG 2023 Featured Plenary Talk</small></div>
+    <div class="periodical"> <small> *ASHG 2023 Predoctoral Trainee Research Excellence Finalist</small></div>
+     <div class="periodical"> <small> *ACGA Predoctoral Trainee Awardee for Basic Research</small></div>
+    <div class="links">
+    <a href="https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PlenaryAbstracts.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
+    <a href="https://github.com/LidaWangPSU/JOBS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+    </div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row">
