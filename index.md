@@ -21,7 +21,7 @@ Before starting my Ph.D. program, I earned a master’s degree in Biostatistics 
 {% include_relative _includes/projects.new.md %}
 
 ## Selected Publication
-- [2025] Wang, L.†, Markus, H.†, et al.<a href="https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00076-X" target="_blank"> An atlas of single-cell eQTLs dissects autoimmune disease genes and identifies novel drug classes for treatment.</a> , Cell Genomics (2025)
+- [2025] Wang, L.†, Markus, H.†, et al.<a href="https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00076-X" target="_blank"> An atlas of single-cell eQTLs dissects autoimmune disease genes and identifies novel drug classes for treatment.</a>  Cell Genomics (2025)
 - [2024] Tan, Y., Wang, L., Zhang, H. et al. <a href="https://www.nature.com/articles/s42003-024-07010-x" target="_blank"> Interpretable GWAS by linking clinical phenotypes to quantifiable immune repertoire components.</a> Commun Biol 7, 1357 (2024). 
 - [2024] Wang, L.†, Khunsriraksakul, C.†, et al. <a href="https://www.nature.com/articles/s41467-024-48143-1" target="_blank"> Integrating single cell expression quantitative trait loci summary statistics to understand complex trait risk genes.</a>  Nat Commun 15, 4260 (2024) 
 - [2022] Khunsriraksakul, C., ..., Wang, L., et al. <a href="https://www.nature.com/articles/s41467-022-30956-7" target="_blank"> Integrating 3D genomic and epigenomic data to enhance target gene discovery and drug repurposing in transcriptome-wide association studies. </a> Nat Commun 13, 3258 (2022).
