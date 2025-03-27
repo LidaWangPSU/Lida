@@ -20,7 +20,7 @@
     <div class="links">
     <a href="https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00076-X" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">CG 2025</a>
     <a href="https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PlenaryAbstracts.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
-    <a href="https://github.com/LidaWangPSU/JOBS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> h
+    <a href="https://github.com/LidaWangPSU/JOBS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> 
     </div>
   </div>
 </div>
