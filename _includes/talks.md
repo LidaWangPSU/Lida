@@ -6,6 +6,7 @@
 <h3 style="margin:10px 0px 5px;">A single cell eQTL atlas for cell type specific regulatory effectss.</h3>
 
 <ul style="margin:0 0 5px;">
+  <li>Emory University, Genetic Epidemiology Journal Club, Virtual, Mar. 2025</li>
   <li>Dana-farber cancer institute, Boston, MA, US, Feb. 2025</li>
   <li>University of Pennsylvania, Philadelphia, PA, US, Jan. 2025</li>
   <li>Multi-Omics Symposium, Hershey, PA, US, Oct. 2024</li>
