@@ -48,7 +48,7 @@ Prior to my Ph.D., I earned a master’s degree in Biostatistics from <a href="h
 
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-<p><strong>Address:</strong> 90 Hope Dr, Hershey, PA 17033
+<p><strong>Address:</strong> 375 Longwood Ave, Boston, MA
 <br />
 <strong>Email:</strong> <email>lida.wang.96 (at) gmail.com</email>
 <br />
