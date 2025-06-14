@@ -5,13 +5,11 @@ layout: homepage
 ## Bio
 
 
-Hi, I am a Postdoc at Dana-Farber Cancer Institute / Harvard Medical School, with Prof. <a href="http://gusevlab.org/" target="_blank">Alexander Gusev</a>. My research is centered on statistical genetics, functional genomics, and data science.
+I am a Postdoctoral Research Fellow at the Dana-Farber Cancer Institute and Harvard Medical School, working with Prof. <a href="http://gusevlab.org/" target="_blank">Alexander Gusev</a>.My research focuses on statistical genetics, functional genomics, and data science.
 
-Previously, I received my Ph.D. in Biostatistics at <a href="https://www.psu.edu/" target="_blank">Penn State University</a>, where I was advised by Prof. <a href="https://dajiangliu.blog/" target="_blank">Dajiang Liu</a> and worked closely with Prof. <a href="https://sites.psu.edu/carrel/" target="_blank">Laura Carrel</a>. 
+I completed my Ph.D. in Biostatistics at Penn State University, advised by Prof. <a href="https://dajiangliu.blog/" target="_blank">Dajiang Liu</a> and closely collaborated with Prof. <a href="https://sites.psu.edu/carrel/" target="_blank">Laura Carrel</a>. In the summer of 2023, I interned as a Research Data Scientist at <a href="https://www.calicolabs.com/" target="_blank">Calico</a>, a subsidiary of Alphabet, where I worked with Dr. <a href="https://www.calicolabs.com/people/madeleine-cule-ph-d/" target="_blank">Madeleine Cule</a> and her team.
 
-In the summer of 2023, I gained valuable experience as a Research Data Scientist Intern at <a href="https://www.calicolabs.com/" target="_blank">Calico</a>, a subsidiary of Alphabet, where I worked with Dr. <a href="https://www.calicolabs.com/people/madeleine-cule-ph-d/" target="_blank">Madeleine Cule</a> and her team.
-
-Before starting my Ph.D. program, I earned a master’s degree in Biostatistics from <a href="https://www.georgetown.edu/" target="_blank">Georgetown University</a>, where I was advised by Prof. <a href="https://gufaculty360.georgetown.edu/s/contact/00336000014TRqVAAW/ao-yuan" target="_blank">Ao Yuan</a> and <a href="https://gufaculty360.georgetown.edu/s/contact/00336000014TfIDAA0/ming-tan" target="_blank">Ming Tan</a>. I got my bachelor’s degree in Mathematics and Applied Mathematics from the <a href="https://www.sustech.edu.cn/en/" target="_blank">Southern University of Science and Technology</a>, where I was mentored by Prof. <a href="https://stat-ds.sustech.edu.cn/teacher/TIAN,Guoliang?lang=en-us" target="_blank">Guoliang Tian</a>.
+Prior to my Ph.D., I earned a master’s degree in Biostatistics from <a href="https://www.georgetown.edu/" target="_blank">Georgetown University</a>, where I was advised by Prof. <a href="https://gufaculty360.georgetown.edu/s/contact/00336000014TRqVAAW/ao-yuan" target="_blank">Ao Yuan</a> and <a href="https://gufaculty360.georgetown.edu/s/contact/00336000014TfIDAA0/ming-tan" target="_blank">Ming Tan</a>. I got my bachelor’s degree in Mathematics and Applied Mathematics from the <a href="https://www.sustech.edu.cn/en/" target="_blank">Southern University of Science and Technology</a>, where I was mentored by Prof. <a href="https://stat-ds.sustech.edu.cn/teacher/TIAN,Guoliang?lang=en-us" target="_blank">Guoliang Tian</a>.
 
 
 ## Research Interests
