@@ -5,7 +5,9 @@ layout: homepage
 ## Bio
 
 
-I recently defended my Ph.D. in Biostatistics at <a href="https://www.psu.edu/" target="_blank">Penn State University</a>, where I work under the mentorship of Prof. <a href="https://dajiangliu.blog/" target="_blank">Dajiang Liu</a>. My research is centered on statistical genetics, functional genomics, and data science.
+Hi, I am a Postdoc at Dana-Farber Cancer Institute / Harvard Medical School, with Prof. <a href="http://gusevlab.org/" target="_blank">Alexander Gusev</a>. My research is centered on statistical genetics, functional genomics, and data science.
+
+Previously, I received my Ph.D. in Biostatistics at <a href="https://www.psu.edu/" target="_blank">Penn State University</a>, where I was advised by Prof. <a href="https://dajiangliu.blog/" target="_blank">Dajiang Liu</a> and worked closely with Prof. <a href="https://sites.psu.edu/carrel/" target="_blank">Laura Carrel</a>. 
 
 In the summer of 2023, I gained valuable experience as a Research Data Scientist Intern at <a href="https://www.calicolabs.com/" target="_blank">Calico</a>, a subsidiary of Alphabet, where I worked with Dr. <a href="https://www.calicolabs.com/people/madeleine-cule-ph-d/" target="_blank">Madeleine Cule</a> and her team.
 
