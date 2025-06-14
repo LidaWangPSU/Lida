@@ -5,7 +5,7 @@ layout: homepage
 ## Bio
 
 
-I am a Postdoctoral Research Fellow at the Dana-Farber Cancer Institute and Harvard Medical School, working with Prof. <a href="http://gusevlab.org/" target="_blank">Alexander Gusev</a>.My research focuses on statistical genetics, functional genomics, and data science.
+I am a Postdoctoral Research Fellow at the Dana-Farber Cancer Institute and Harvard Medical School, working with Prof. <a href="http://gusevlab.org/" target="_blank">Alexander Gusev</a>. My research focuses on statistical genetics, functional genomics, and data science.
 
 I completed my Ph.D. in Biostatistics at Penn State University, advised by Prof. <a href="https://dajiangliu.blog/" target="_blank">Dajiang Liu</a> and closely collaborated with Prof. <a href="https://sites.psu.edu/carrel/" target="_blank">Laura Carrel</a>. In the summer of 2023, I interned as a Research Data Scientist at <a href="https://www.calicolabs.com/" target="_blank">Calico</a>, a subsidiary of Alphabet, where I worked with Dr. <a href="https://www.calicolabs.com/people/madeleine-cule-ph-d/" target="_blank">Madeleine Cule</a> and her team.
 
