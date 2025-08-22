@@ -28,6 +28,7 @@ Prior to my Ph.D., I earned a master’s degree in Biostatistics from <a href="h
 - [2022] Yuan, A., Wang, L., Tan, MT.<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9229" target="_blank"> Set-regression with applications to subgroup analysis. </a> Statistics in Medicine. 2022;41(1):180-193.
 
 ## Awards and honors
+- [2025] ASHG - Reviewers’ Choice Abstract (10%)
 - [2024] ASHG - Reviewers’ Choice Abstract (10%)
 - [2024] ASHG - Predoctoral Trainee Research Excellence Semi-finalist (5%)
 - [2024] Penn State University - Vernon M. Chinchilli, PhD Award for Excellence in Biostatistics
