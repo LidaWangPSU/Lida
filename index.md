@@ -29,6 +29,7 @@ Prior to my Ph.D., I earned a master’s degree in Biostatistics from <a href="h
 
 ## Awards and honors
 - [2025] ASHG - Reviewers’ Choice Abstract (10%)
+- [2025] ASHG - U.S. Resource Limited Travel Stipend 
 - [2024] ASHG - Reviewers’ Choice Abstract (10%)
 - [2024] ASHG - Predoctoral Trainee Research Excellence Semi-finalist (5%)
 - [2024] Penn State University - Vernon M. Chinchilli, PhD Award for Excellence in Biostatistics
