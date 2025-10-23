@@ -7,6 +7,23 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/basic.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge" style="background-color: #337ab7; color: #ffffff;"> Nature Communications </abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><strong>Axis-QTL</strong></div>
+    <div class="author"><small>Lida Wang, Shuang Gao,..., Dajiang Liu, 2023-2025</small></div>
+        <div class="periodical"> <small> *ASHG 2025 U.S. resource limited award</small></div>
+        <div class="periodical"> <small> *ASHG 2025 reviewer's choice abstract</small></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/jobs.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge" style="background-color: #337ab7; color: #ffffff;">Cell Genomics</abbr>
   </div>
