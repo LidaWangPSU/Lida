@@ -25,13 +25,18 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/basic.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge" style="background-color: #337ab7; color: #ffffff;"> In prep. </abbr>
+    <abbr class="badge" style="background-color: #337ab7; color: #ffffff;"> Nature Communications </abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong>Bulk And Single cell eQTL Integration across Cell types (BASIC)</strong></div>
-    <div class="author"><small>Shuang Gao, Lida Wang, Dajiang Liu, 2023-now.</small></div>
-        <div class="periodical"> <small> *ASHG 2023 poster presentation</small></div>
+    <div class="title"><strong> Axis-QTL: Bulk And Single cell eQTL Integration across Cell states (BASIC) </strong></div>
+    <div class="author"><small>Lida Wang, Shuang Gao, Dajiang Liu, 2023-2025</small></div>
+        <div class="periodical"> <small> *ASHG 2025 U.S. resource limited award</small></div>
+        <div class="periodical"> <small> *ASHG 2025 reviewer's choice abstract</small></div>
+        <div class="links">
+    <a href="https://www.ashg.org/wp-content/uploads/2025/10/2025-Poster-Abstracts.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
+    <a href="https://github.com/LidaWangPSU/BASIC" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> 
+    </div>
   </div>
 </div>
 </li>
