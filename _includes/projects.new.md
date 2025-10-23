@@ -12,10 +12,14 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong>Axis-QTL</strong></div>
+    <div class="title"><strong> Axis-QTL: Bulk And Single cell eQTL Integration across Cell types (BASIC) </strong></div>
     <div class="author"><small>Lida Wang, Shuang Gao,..., Dajiang Liu, 2023-2025</small></div>
         <div class="periodical"> <small> *ASHG 2025 U.S. resource limited award</small></div>
         <div class="periodical"> <small> *ASHG 2025 reviewer's choice abstract</small></div>
+        <div class="links">
+    <a href="https://www.ashg.org/wp-content/uploads/2025/10/2025-Poster-Abstracts.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
+    <a href="https://github.com/LidaWangPSU/BASIC" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> 
+    </div>
   </div>
 </div>
 </li>
