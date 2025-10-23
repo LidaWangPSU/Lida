@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong> Axis-QTL: Bulk And Single cell eQTL Integration across Cell types (BASIC) </strong></div>
+    <div class="title"><strong> Axis-QTL: Bulk And Single cell eQTL Integration across Cell states (BASIC) </strong></div>
     <div class="author"><small>Lida Wang, Shuang Gao, Dajiang Liu, 2023-2025</small></div>
         <div class="periodical"> <small> *ASHG 2025 U.S. resource limited award</small></div>
         <div class="periodical"> <small> *ASHG 2025 reviewer's choice abstract</small></div>
