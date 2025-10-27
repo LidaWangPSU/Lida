@@ -14,7 +14,7 @@ Prior to my Ph.D., I earned a master’s degree in Biostatistics from <a href="h
 
 ## Research Interests
 - Developing models to characterize eQTL architecture at single-cell resolution, enabling a deeper understanding of cell-type/state–specific gene regulation.
-- Leveraging genetic and electronic health record (EHR) data with stiatiscal methods and LLM to predict and prevent disease progression.
+- Leveraging genetic and electronic health record (EHR) data with statistical methods and LLM to predict and prevent disease progression.
 
   
 {% include_relative _includes/projects.new.md %}
