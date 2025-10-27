@@ -13,9 +13,8 @@ Prior to my Ph.D., I earned a master’s degree in Biostatistics from <a href="h
 
 
 ## Research Interests
-- How can regulatory effects be modeled and assessed at single-cell resolution?
-- How can genetics and clinical data be leveraged to prevent disease progression?
-- How can genetics and multi-omics data be utilized to inform drug development?
+- Developing models to characterize eQTL architecture at single-cell resolution, enabling a deeper understanding of cell-type/state–specific gene regulation.
+- Leveraging genetic and electronic health record (EHR) data with AI and large language models (LLMs) to predict and prevent disease progression.
 
   
 {% include_relative _includes/projects.new.md %}
