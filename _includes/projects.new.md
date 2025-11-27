@@ -17,6 +17,7 @@
         <div class="periodical"> <small> *ASHG 2025 U.S. resource limited award</small></div>
         <div class="periodical"> <small> *ASHG 2025 reviewer's choice abstract</small></div>
         <div class="links">
+    <a href="https://www.nature.com/articles/s41467-025-65643-w" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">NC 2025</a>
     <a href="https://www.ashg.org/wp-content/uploads/2025/10/2025-Poster-Abstracts.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
     <a href="https://github.com/LidaWangPSU/BASIC" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> 
     </div>
