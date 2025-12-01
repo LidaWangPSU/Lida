@@ -41,6 +41,7 @@ Prior to my Ph.D., I earned a master’s degree in Biostatistics from <a href="h
 - [2018] Georgetown University - Biomedical Graduate Tuition Scholarship
 
 ## Resources
+- [2025] <a href="https://www.psu.edu/news/research/story/new-technique-maps-genetic-variants-driving-neurodegenerative-disease-risk" target="_blank"> Penn State News</a> features our BASIC work on mapping neurodegenerative disease risk genes.
 - [2025] <a href="https://www.psu.edu/news/research/story/qa-how-can-drug-repurposing-lower-drug-costs-and-improve-care" target="_blank"> Penn State News</a> features our JOBS work on drug repurposing.
 - [2024] AMSTATS News <a href="https://magazine.amstat.org/blog/2024/08/01/lidawang/" target="_blank"> [1] </a> <a href="https://www.linkedin.com/posts/american-statistical-association---asa_newmember-postdoc-statistician-activity-7231299544515301377-9A8Q?utm_source=share&utm_medium=member_desktop" target="_blank"> [2] </a> spotlight on Dr. Wang. 
 - [2024] <a href="https://www.psu.edu/news/research/story/new-ai-algorithm-may-improve-autoimmune-disease-prediction-and-therapies/" target="_blank"> Penn State News</a> features our EXPRESSO work.
