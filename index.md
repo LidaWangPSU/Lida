@@ -27,19 +27,6 @@ Prior to my Ph.D., I earned a master’s degree in Biostatistics from <a href="h
 - [2022] Khunsriraksakul, C., ..., Wang, L., et al. <a href="https://www.nature.com/articles/s41467-022-30956-7" target="_blank"> Integrating 3D genomic and epigenomic data to enhance target gene discovery and drug repurposing in transcriptome-wide association studies. </a> Nat Commun 13, 3258 (2022).
 - [2022] Yuan, A., Wang, L., Tan, MT.<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9229" target="_blank"> Set-regression with applications to subgroup analysis. </a> Statistics in Medicine. 2022;41(1):180-193.
 
-## Awards and honors
-- [2025] ASHG - Reviewers’ Choice Abstract (10%)
-- [2025] ASHG - U.S. Resource Limited Travel Stipend 
-- [2024] ASHG - Reviewers’ Choice Abstract (10%)
-- [2024] ASHG - Predoctoral Trainee Research Excellence Semi-finalist (5%)
-- [2024] Penn State University - Vernon M. Chinchilli, PhD Award for Excellence in Biostatistics
-- [2023] ASHG - <a href="https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PlenaryAbstracts.pdf" target="_blank"> Featured Plenary Oral Presentation </a>  (0.5%)
-- [2023] ASHG - <a href="https://www.ashg.org/wp-content/uploads/2023/12/ASHG-Trainee-Research-for-Excellence-Awards-2023-Recipients.pdf" target="_blank"> Predoctoral Trainee Research Excellence Finalist </a> (2%)
-- [2023] ACGA - Predoctoral Trainee Awardee for Basic Research
-- [2023] Penn State University - <a href="https://pennstatehealthnews.org/topics/finkelstein-award/" target="_blank"> Finkelstein Memorial Trainee Research Award</a>
-- [2019] University of Washington - Statistical Genetics Summer Institutes Scholarship
-- [2018] Georgetown University - Biomedical Graduate Tuition Scholarship
-
 ## Resources
 - [2025] <a href="https://www.psu.edu/news/research/story/new-technique-maps-genetic-variants-driving-neurodegenerative-disease-risk" target="_blank"> Penn State News</a> features our BASIC work.
 - [2025] <a href="https://www.psu.edu/news/research/story/qa-how-can-drug-repurposing-lower-drug-costs-and-improve-care" target="_blank"> Penn State News</a> features our JOBS work.
@@ -47,7 +34,6 @@ Prior to my Ph.D., I earned a master’s degree in Biostatistics from <a href="h
 - [2024] <a href="https://www.psu.edu/news/research/story/new-ai-algorithm-may-improve-autoimmune-disease-prediction-and-therapies/" target="_blank"> Penn State News</a> features our EXPRESSO work.
 - [2022] <a href="https://www.psu.edu/news/research/story/new-machine-learning-technique-shows-how-drugs-can-be-repurposed/" target="_blank"> Penn State News</a> and <a href="https://pennstatehealthnews.org/2022/06/new-machine-learning-technique-shows-how-drugs-can-be-repurposed/" target="_blank"> Penn State Health News</a> features our PUMICE work.
   
-{% include_relative _includes/talks.md %}
 
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
 
