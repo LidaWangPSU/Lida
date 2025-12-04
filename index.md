@@ -11,7 +11,7 @@ I completed my Ph.D. in Biostatistics at <a href="https://www.psu.edu/" target="
 
 Prior to my Ph.D., I earned a master’s degree in Biostatistics from <a href="https://www.georgetown.edu/" target="_blank">Georgetown University</a>, where I was advised by Prof. <a href="https://gufaculty360.georgetown.edu/s/contact/00336000014TRqVAAW/ao-yuan" target="_blank">Ao Yuan</a> and <a href="https://gufaculty360.georgetown.edu/s/contact/00336000014TfIDAA0/ming-tan" target="_blank">Ming Tan</a>. I got my bachelor’s degree in Mathematics and Applied Mathematics from the <a href="https://www.sustech.edu.cn/en/" target="_blank">Southern University of Science and Technology</a>, where I was mentored by Prof. <a href="https://stat-ds.sustech.edu.cn/teacher/TIAN,Guoliang?lang=en-us" target="_blank">Guoliang Tian</a>.
 
-My CV is <embed src="https://github.com/LidaWangPSU/Lida/blob/master/assets/CV_LIDA.pdf" width="100%" height="850px"/>.
+My CV is <a href="https://github.com/LidaWangPSU/Lida/blob/master/assets/CV_LIDA.pdf" target="_blank">here</a>.
 
 
 ## Research Interests
