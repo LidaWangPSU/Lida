@@ -71,22 +71,6 @@
 </li>
   
  
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/kidney.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge" style="background-color: #337ab7; color: #ffffff;">Internship at Calico</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong>Genetic Analysis of Image-Derived Phenotypes in Kidney Substructures</strong></div>
-    <div class="author"><small>Lida Wang, , Madeleine Cule, Ramprakash Srinivasan, Kevin Wright, Elena Sorokin, Anil Raj, Jimmy Bell, 2023. </small></div>
-    <div class="links">
-    </div>
-  </div>
-</div>
-</li> 
 
 <li>
 <div class="pub-row">
@@ -105,6 +89,7 @@
     <a href="https://www.nature.com/articles/s41467-022-30956-7" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">NC 2022</a>
     <a href="https://www.nature.com/articles/s41467-023-36306-5" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">NC 2023</a>
     <a href="https://www.nature.com/articles/s41467-024-46132-y" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">NC 2024</a>
+    <a href="https://www.cell.com/ajhg/fulltext/S0002-9297(26)00118-7" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">AJHG 2026</a>
     <a href="https://github.com/LidaWangPSU/PUMICE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
     <a href="https://github.com/ckhunsr1/PUMICE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
     </div>
