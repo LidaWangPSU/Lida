@@ -110,7 +110,7 @@
     <div class="title"><strong>Set-regression with applications to subgroup analysis</strong></div>
     <div class="author"><small>Ao Yuan, Lida Wang, Ming Tan, 2021 </small></div>
      <div class="links">
-    <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9229" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">SIM 2022</a>
+    <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9229" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">SIM 2021</a>
     </div>
   </div>
 </div>
