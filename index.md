@@ -43,4 +43,4 @@ My CV is <a href="https://drive.google.com/file/d/1vP8bb642gygZC8j9zwBG1buyya5Y0
 <br />
 
 
-<img src="https://mapmyvisitors.com/map.png?d=F_1A8b8WvANIMsUCUGwq_OY9GKXbZugaKlRCVWYUTfA&cl=ffffff" /></a>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=F_1A8b8WvANIMsUCUGwq_OY9GKXbZugaKlRCVWYUTfA&cl=ffffff&w=a"></script>
