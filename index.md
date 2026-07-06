@@ -4,12 +4,11 @@ layout: homepage
 
 ## Bio
 
+I am a Postdoctoral Research Fellow at the <a href="https://www.dana-farber.org/" target="_blank">Dana-Farber Cancer Institute</a> and <a href="https://hms.harvard.edu/" target="_blank">Harvard Medical School</a>, where I work with Prof. <a href="http://gusevlab.org/" target="_blank">Alexander Gusev</a>. My research lies at the intersection of statistical genetics, functional genomics, and data science.
 
-I am a Postdoctoral Research Fellow at the <a href="https://www.dana-farber.org/" target="_blank">Dana-Farber Cancer Institute</a> and <a href="https://hms.harvard.edu/" target="_blank">Harvard Medical School</a>, working with Prof. <a href="http://gusevlab.org/" target="_blank">Alexander Gusev</a>. My research focuses on statistical genetics, functional genomics, and data science.
+I received my Ph.D. in Biostatistics from <a href="https://www.psu.edu/" target="_blank">Penn State University</a>, where I was advised by Prof. <a href="https://dajiangliu.blog/" target="_blank">Dajiang Liu</a> and collaborated closely with Prof. <a href="https://sites.psu.edu/carrel/" target="_blank">Laura Carrel</a>. In the summer of 2023, I worked as a Research Data Scientist Intern at <a href="https://www.calicolabs.com/" target="_blank">Calico Life Sciences</a>, an Alphabet company.
 
-I completed my Ph.D. in Biostatistics at <a href="https://www.psu.edu/" target="_blank">Penn State University</a>, advised by Prof. <a href="https://dajiangliu.blog/" target="_blank">Dajiang Liu</a> and closely collaborated with Prof. <a href="https://sites.psu.edu/carrel/" target="_blank">Laura Carrel</a>. In the summer of 2023, I interned as a Research Data Scientist at <a href="https://www.calicolabs.com/" target="_blank">Calico</a>, a subsidiary of Alphabet.
-
-Prior to my Ph.D., I earned a master’s degree in Biostatistics from <a href="https://www.georgetown.edu/" target="_blank">Georgetown University</a> and I got my bachelor’s degree in Mathematics and Applied Mathematics from the <a href="https://www.sustech.edu.cn/en/" target="_blank">Southern University of Science and Technology</a>.
+Before beginning my doctoral studies, I earned an M.S. in Biostatistics from <a href="https://www.georgetown.edu/" target="_blank">Georgetown University</a> and a B.S. in Mathematics and Applied Mathematics from the <a href="https://www.sustech.edu.cn/en/" target="_blank">Southern University of Science and Technology</a>.
 
 My CV is <a href="https://drive.google.com/file/d/1vP8bb642gygZC8j9zwBG1buyya5Y0TR3/view?usp=drive_link" target="_blank">here</a>.
 
