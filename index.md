@@ -15,7 +15,7 @@ My CV is <a href="https://drive.google.com/file/d/1vP8bb642gygZC8j9zwBG1buyya5Y0
 
 ## Research Interests
 - Developing models to characterize eQTL architecture at single-cell resolution, enabling a deeper understanding of cell-type/state–specific gene regulation.
-- Leveraging genetic and electronic health record (EHR) data with statistical methods and LLM to predict disease progression.
+- Leveraging genetic and electronic health record (EHR) data with statistical methods and AI to predict disease progression.
 
   
 {% include_relative _includes/projects.new.md %}
