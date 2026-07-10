@@ -10,7 +10,7 @@ I received my Ph.D. in Biostatistics from <a href="https://www.psu.edu/" target=
 
 Before beginning my doctoral studies, I earned an M.S. in Biostatistics from <a href="https://www.georgetown.edu/" target="_blank">Georgetown University</a> and a B.S. in Mathematics and Applied Mathematics from the <a href="https://www.sustech.edu.cn/en/" target="_blank">Southern University of Science and Technology</a>.
 
-My CV is <a href="https://github.com/LidaWangPSU/Lida/blob/master/assets/CV_LIDA.pdf" target="_blank">here</a>.
+My CV is <a href="https://drive.google.com/file/d/1vP8bb642gygZC8j9zwBG1buyya5Y0TR3/view?usp=sharing" target="_blank">here</a>.
 
 
 ## Research Interests
