@@ -15,9 +15,7 @@ My CV is <a href="https://drive.google.com/file/d/1vP8bb642gygZC8j9zwBG1buyya5Y0
 
 ## Research Interests
 - Developing statistical models to characterize eQTL architecture at single-cell resolution and uncover context-specific genetic regulation of gene expression.
-
 - Integrating genetic and electronic health record (EHR) data to model and predict disease progression.
-
 - Investigating how somatic mutations influence cancer survival using genomic language models and machine learning.
 
   
