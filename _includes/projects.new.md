@@ -91,6 +91,7 @@
 
   <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
     <div class="title"><strong>Set-regression with applications to subgroup analysis</strong></div>
+    <div class="periodical"><small>Develop a new type of regression: set-regression for a target subgroup.</small></div>
     <div class="links">
       <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9229" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">SIM 2021</a>
     </div>
