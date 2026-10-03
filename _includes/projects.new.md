@@ -12,7 +12,6 @@
 
   <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
     <div class="title"><strong>Axis-QTL: Bulk And Single cell eQTL Integration across Cell states (BASIC)</strong></div>
-    <div class="author"><small>Lida Wang, Shuang Gao, Dajiang Liu, 2025</small></div>
     <div class="periodical"><small>Project sc-eQTLs onto the PCs and calculate the “axis-QTLs”.</small></div>
     <div class="links">
       <a href="https://www.nature.com/articles/s41467-025-65643-w" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">NC 2025</a>
@@ -32,7 +31,6 @@
 
   <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
     <div class="title"><strong>JOint analysis of Bulk-eQTL and Sc-eQTL (JOBS)</strong></div>
-    <div class="author"><small>Lida Wang, Havell Markus, Dajiang Liu, 2025.</small></div>
     <div class="periodical"><small>Joint model of bulk-eQTLs as a weighted sum of sc-eQTLs from constituent cell types to improve power.</small></div>
     <div class="links">
       <a href="https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00076-X" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">CG 2025</a>
@@ -52,7 +50,6 @@
 
   <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
     <div class="title"><strong>EXpression PREdiction with Summary Statistics Only (EXPRESSO)</strong></div>
-    <div class="author"><small>Lida Wang, Chachrit Khunsriraksakul, Dajiang Liu, 2024</small></div>
     <div class="periodical"><small>Build gene expression prediction models using summary statistics only and propose novel variable selection methods.</small></div>
     <div class="links">
       <a href="https://www.nature.com/articles/s41467-024-48143-1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">NC 2024</a>
@@ -72,7 +69,6 @@
 
   <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
     <div class="title"><strong>Prediction Using Models Informed by Chromatin conformations and Epigenomics (PUMICE)</strong></div>
-    <div class="author"><small>Chachrit Khunsriraksakul, Lida Wang, Dajiang Liu, 2022</small></div>
     <div class="periodical"><small>Build gene expression prediction models by integrating epigenetic and 3D genomic information.</small></div>
     <div class="links">
       <a href="https://www.nature.com/articles/s41467-022-30956-7" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">NC 2022</a>
@@ -95,7 +91,6 @@
 
   <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
     <div class="title"><strong>Set-regression with applications to subgroup analysis</strong></div>
-    <div class="author"><small>Ao Yuan, Lida Wang, Ming Tan, 2021</small></div>
     <div class="links">
       <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9229" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">SIM 2021</a>
     </div>
