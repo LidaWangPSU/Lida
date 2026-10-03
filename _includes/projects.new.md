@@ -56,7 +56,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>EXpression PREdiction with Summary Statistics Only (EXPRESSO)</strong></div>
     <div class="author"><small>Lida Wang, Chachrit Khunsriraksakul, Dajiang Liu, 2024 </small></div>
-    <div class="periodical"> <small> Build gene expression prediction model with summary-statistics only and propose novel variable selection methods.></div>
+    <div class="periodical"> <small> Build gene expression prediction model with summary-statistics only and propose novel variable selection methods.</small></div>
      <div class="links">
     <a href="https://www.nature.com/articles/s41467-024-48143-1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">NC 2024</a>
     <a href="https://github.com/LidaWangPSU/EXPRESSO" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
