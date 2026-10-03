@@ -35,7 +35,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>JOint analysis of Bulk-eQTL and Sc-eQTL (JOBS)</strong></div>
     <div class="author"><small>Lida Wang, Havell Markus, Dajiang Liu, 2025. </small></div>
-    <div class="periodical"> <small> Joint model of bk-eQTLs as a weighted sum of sc-eQTLs (JOBS) from constituent cell types to improve power</small></div>
+    <div class="periodical"> <small> Joint model of bk-eQTLs as a weighted sum of sc-eQTLs from constituent cell types to improve power</small></div>
     <div class="links">
     <a href="https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00076-X" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">CG 2025</a>
     <a href="https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PlenaryAbstracts.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
