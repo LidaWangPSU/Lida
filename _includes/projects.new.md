@@ -14,8 +14,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong> Axis-QTL: Bulk And Single cell eQTL Integration across Cell states (BASIC) </strong></div>
     <div class="author"><small>Lida Wang, Shuang Gao, Dajiang Liu, 2025</small></div>
-        <div class="periodical"> <small> *ASHG 2025 U.S. resource limited award</small></div>
-        <div class="periodical"> <small> *ASHG 2025 reviewer's choice abstract</small></div>
+        <div class="periodical"> <small> Project sc-eQTLs onto the PCs and calculate the “axis-QTLs”. </small></div>
         <div class="links">
     <a href="https://www.nature.com/articles/s41467-025-65643-w" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">NC 2025</a>
     <a href="https://www.ashg.org/wp-content/uploads/2025/10/2025-Poster-Abstracts.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
@@ -36,9 +35,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>JOint analysis of Bulk-eQTL and Sc-eQTL (JOBS)</strong></div>
     <div class="author"><small>Lida Wang, Havell Markus, Dajiang Liu, 2025. </small></div>
-    <div class="periodical"> <small> *ASHG 2023 Featured Plenary Talk</small></div>
-    <div class="periodical"> <small> *ASHG 2023 Predoctoral Trainee Research Excellence Finalist</small></div>
-     <div class="periodical"> <small> *ACGA Predoctoral Trainee Awardee for Basic Research</small></div>
+    <div class="periodical"> <small> Joint model of bk-eQTLs as a weighted sum of sc-eQTLs (JOBS) from constituent cell types to improve power</small></div>
     <div class="links">
     <a href="https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00076-X" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">CG 2025</a>
     <a href="https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PlenaryAbstracts.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
@@ -59,8 +56,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>EXpression PREdiction with Summary Statistics Only (EXPRESSO)</strong></div>
     <div class="author"><small>Lida Wang, Chachrit Khunsriraksakul, Dajiang Liu, 2024 </small></div>
-    <div class="periodical"> <small> *STATGEN 2024 Invited Talk</small></div>
-    <div class="periodical"> <small> *ASHG 2022 poster presentation</small></div>
+    <div class="periodical"> <small> Build gene expression prediction model with summary-statistics only and propose novel variable selection methods.></div>
      <div class="links">
     <a href="https://www.nature.com/articles/s41467-024-48143-1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">NC 2024</a>
     <a href="https://github.com/LidaWangPSU/EXPRESSO" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
@@ -83,8 +79,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>Prediction Using Models Informed by Chromatin conformations and Epigenomics (PUMICE) </strong></div>
     <div class="author"><small>Chachrit Khunsriraksakul, Lida Wang, Dajiang Liu, 2022 </small></div>
-    <div class="periodical"> <small> *ASHG 2020 Reviewer’s choice abstract</small></div>
-    <div class="periodical"> <small> *PQG 2020 conference honorable mention</small></div>
+    <div class="periodical"> <small> Build gene expression prediction model by integrating epigenetic and 3D genomic information</small></div>
      <div class="links">
     <a href="https://www.nature.com/articles/s41467-022-30956-7" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">NC 2022</a>
     <a href="https://www.nature.com/articles/s41467-023-36306-5" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">NC 2023</a>
