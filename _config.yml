@@ -12,9 +12,9 @@ address: Boston, MA
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Lida Wang, statistical genetics, single-cell eQTL, functional genomics, biostatistics, Harvard Medical School, Dana-Farber
+description: Lida Wang, Postdoctoral Research Fellow at Harvard Medical School and Dana-Farber Cancer Institute. Statistical genetics, single-cell eQTL, and functional genomics.
+canonical: https://lidawangpsu.github.io/Lida/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
@@ -47,8 +47,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
   - LICENSE
   - minimal-light.gemspec

@@ -19,7 +19,7 @@ My CV is <a href="https://drive.google.com/file/d/1vP8bb642gygZC8j9zwBG1buyya5Y0
 - Investigating how somatic mutations influence cancer survival using genomic language models and machine learning.
 
   
-{% include_relative _includes/projects.new.md %}
+{% include_relative _includes/projects.md %}
 
 ## Selected Publication
 - [2025] Wang, L.†, Gao, S.†, et al. <a href="https://www.nature.com/articles/s41467-025-65643-w" target="_blank"> Integrating axis quantitative trait loci looks beyond cell types and offers insights into brain-related traits.</a>  Nat Commun 16, 10606 (2025)
