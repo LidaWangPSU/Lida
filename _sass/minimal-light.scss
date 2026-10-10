@@ -1,3 +1,17 @@
+// Dark mode applies when the OS prefers dark (unless the user forced light)
+// or when the user forced dark via the toggle (html[data-theme="dark"]).
+@mixin dark-mode {
+  @media (prefers-color-scheme: dark) {
+    html:not([data-theme="light"]) {
+      @content;
+    }
+  }
+
+  html[data-theme="dark"] {
+    @content;
+  }
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,500;1,600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
 
@@ -46,7 +60,7 @@ a.no-color {
   margin-right: 1rem
 }
 
-@media (prefers-color-scheme: dark) {
+@include dark-mode {
   .social-icons a {
     color: #b8b8b8 !important;
   }
@@ -78,7 +92,7 @@ a.no-color {
       }
      */
 
-@media (prefers-color-scheme: dark) {
+@include dark-mode {
   .social-icons a:last-child {
     margin-right: 0
   }
@@ -233,7 +247,7 @@ papertitle {
   font-size: 100%;
 }
 
-@media (prefers-color-scheme: dark) {
+@include dark-mode {
   body {
     background-color: #404040;
     color: #eee6f3;
@@ -357,7 +371,7 @@ h2 {
   font-size: 157%;
 }
 
-@media (prefers-color-scheme: dark) {
+@include dark-mode {
 
   h1,
   h3 {
@@ -416,7 +430,7 @@ a:hover {
   color: #416fa6;
 }
 
-@media (prefers-color-scheme: dark) {
+@include dark-mode {
   a {
     color: #79A2DD;
   }
@@ -481,7 +495,7 @@ th {
   color: #444;
 }
 
-@media (prefers-color-scheme: dark) {
+@include dark-mode {
   th {
     color: rgb(62, 183, 240);
   }
@@ -554,7 +568,7 @@ strong {
   font-weight: 500;
 }
 
-@media (prefers-color-scheme: dark) {
+@include dark-mode {
   strong {
     color: #eeeff0;
   }
@@ -752,4 +766,35 @@ screen and (max-width: 480px) {
   margin-left: 0px;
   display: none;
   font-family: monospace;
+}
+
+
+/* Light / dark toggle button */
+#theme-toggle {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  z-index: 1000;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  border: 1px solid #bbb;
+  background: rgba(255, 255, 255, 0.85);
+  color: #333;
+  font-size: 18px;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0;
+}
+
+#theme-toggle:hover {
+  transform: scale(1.1);
+}
+
+@include dark-mode {
+  #theme-toggle {
+    background: rgba(40, 40, 40, 0.85);
+    color: #eee;
+    border-color: #777;
+  }
 }
