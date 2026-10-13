@@ -1,6 +1,6 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Projects</h2>
+<h2 id="projects" style="margin: 2px 0px -15px;">Projects</h2>
 
-<div class="publications">
+<div class="publications project-cards">
 <ol class="bibliography">
 
 <li>

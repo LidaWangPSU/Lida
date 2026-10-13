@@ -798,3 +798,84 @@ screen and (max-width: 480px) {
     border-color: #777;
   }
 }
+
+
+/* Sidebar section navigation */
+html {
+  scroll-behavior: smooth;
+}
+
+h2[id] {
+  scroll-margin-top: 30px;
+}
+
+.side-nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  margin-top: 6px;
+}
+
+.side-nav a {
+  font-size: 0.9rem;
+  padding: 2px 12px;
+  border-left: 2px solid transparent;
+  color: #777;
+}
+
+.side-nav a:hover {
+  text-decoration: none;
+  color: #222;
+}
+
+.side-nav a.active {
+  color: #1a5fb4;
+  font-weight: 600;
+  border-left-color: #1a5fb4;
+}
+
+@include dark-mode {
+  .side-nav a {
+    color: #b8b8b8;
+  }
+
+  .side-nav a:hover {
+    color: #fff;
+  }
+
+  .side-nav a.active {
+    color: #79A2DD;
+    border-left-color: #79A2DD;
+  }
+}
+
+@media print,
+screen and (max-width: 960px) {
+  .side-nav {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2px 6px;
+  }
+
+  .side-nav a {
+    border-left: none;
+    border-bottom: 2px solid transparent;
+  }
+
+  .side-nav a.active {
+    border-bottom-color: #1a5fb4;
+  }
+}
+
+/* Keep the whole sidebar visible on short windows */
+@media screen and (min-width: 961px) and (max-height: 780px) {
+  header {
+    padding-top: 1.2em;
+  }
+
+  header .image.avatar img {
+    width: 150px;
+  }
+}

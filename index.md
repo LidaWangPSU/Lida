@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## Bio
+## Bio {#bio}
 
 I am a Postdoctoral Research Fellow at the <a href="https://www.dana-farber.org/" target="_blank">Dana-Farber Cancer Institute</a> and <a href="https://hms.harvard.edu/" target="_blank">Harvard Medical School</a>, where I work with Prof. <a href="http://gusevlab.org/" target="_blank">Alexander Gusev</a>. My research lies at the intersection of statistical genetics, functional genomics, and data science.
 
@@ -13,7 +13,7 @@ Before beginning my doctoral studies, I earned an M.S. in Biostatistics from <a 
 My CV is <a href="https://drive.google.com/file/d/1vP8bb642gygZC8j9zwBG1buyya5Y0TR3/view?usp=sharing" target="_blank">here</a>.
 
 
-## Research Interests
+## Research Interests {#research-interests}
 - Developing statistical models to characterize eQTL architecture at single-cell resolution and uncover context-specific genetic regulation of gene expression.
 - Integrating genetic and electronic health record (EHR) data to model and predict disease progression.
 - Investigating how somatic mutations influence cancer survival using genomic language models and machine learning.
@@ -21,13 +21,13 @@ My CV is <a href="https://drive.google.com/file/d/1vP8bb642gygZC8j9zwBG1buyya5Y0
   
 {% include_relative _includes/projects.md %}
 
-## Selected Publication
+## Selected Publication {#publications}
 - [2025] Wang, L.†, Gao, S.†, et al. <a href="https://www.nature.com/articles/s41467-025-65643-w" target="_blank"> Integrating axis quantitative trait loci looks beyond cell types and offers insights into brain-related traits.</a>  Nat Commun 16, 10606 (2025)
 - [2025] Wang, L.†, Markus, H.†, et al.<a href="https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00076-X" target="_blank"> An atlas of single-cell eQTLs dissects autoimmune disease genes and identifies novel drug classes for treatment.</a>  Cell Genomics (2025)
 - [2024] Wang, L.†, Khunsriraksakul, C.†, et al. <a href="https://www.nature.com/articles/s41467-024-48143-1" target="_blank"> Integrating single cell expression quantitative trait loci summary statistics to understand complex trait risk genes.</a>  Nat Commun 15, 4260 (2024) 
 - [2022] Yuan, A., Wang, L., Tan, MT.<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9229" target="_blank"> Set-regression with applications to subgroup analysis. </a> Statistics in Medicine. 2022;41(1):180-193.
 
-## Resources
+## Resources {#resources}
 - [2025] <a href="https://www.psu.edu/news/research/story/new-technique-maps-genetic-variants-driving-neurodegenerative-disease-risk" target="_blank"> Penn State News</a> features our BASIC work.
 - [2025] <a href="https://www.psu.edu/news/research/story/qa-how-can-drug-repurposing-lower-drug-costs-and-improve-care" target="_blank"> Penn State News</a> features our JOBS work.
 - [2024] AMSTATS News <a href="https://magazine.amstat.org/blog/2024/08/01/lidawang/" target="_blank"> [1] </a> <a href="https://www.linkedin.com/posts/american-statistical-association---asa_newmember-postdoc-statistician-activity-7231299544515301377-9A8Q?utm_source=share&utm_medium=member_desktop" target="_blank"> [2] </a> spotlight on Dr. Wang. 
@@ -35,7 +35,7 @@ My CV is <a href="https://drive.google.com/file/d/1vP8bb642gygZC8j9zwBG1buyya5Y0
 - [2022] <a href="https://www.psu.edu/news/research/story/new-machine-learning-technique-shows-how-drugs-can-be-repurposed/" target="_blank"> Penn State News</a> and <a href="https://pennstatehealthnews.org/2022/06/new-machine-learning-technique-shows-how-drugs-can-be-repurposed/" target="_blank"> Penn State Health News</a> features our PUMICE work.
   
 
-<h2 style="margin: 60px 0px 10px;">Contact</h2>
+<h2 id="contact" style="margin: 60px 0px 10px;">Contact</h2>
 
 <p><strong>Address:</strong> 375 Longwood Ave, Boston, MA
 <br />
