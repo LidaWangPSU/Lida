@@ -6,6 +6,23 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+    <div class="teaser" style="border: 1px solid #999; box-shadow: none; display: flex; align-items: center; justify-content: center; font-size: 1.4rem; font-weight: 600; color: #888;">scHINT</div>
+    <abbr class="badge" style="background-color: #337ab7; color: #ffffff;">medRxiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
+    <div class="title"><strong>Single-cell gene expression Heritability estimation with genotype x context INTeraction (scHINT)</strong></div>
+    <div class="periodical"><small>Estimate cell-level expression heritability and context-dependent genetic regulation from large single-cell datasets.</small></div>
+    <div class="links">
+      <a href="https://www.medrxiv.org/content/10.64898/2026.11.23.26368758v1.full.pdf+html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Preprint</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
     <img src="assets/basic.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge" style="background-color: #337ab7; color: #ffffff;">Nature Communications</abbr>
   </div>
