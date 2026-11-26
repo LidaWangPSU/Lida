@@ -5,8 +5,8 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="height: auto; position: relative; padding-right: 15px; padding-left: 15px;">
-    <img src="assets/schint.png" class="teaser img-fluid z-depth-1" style="height: auto; object-fit: contain;">
+  <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+    <img src="assets/schint.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge" style="background-color: #337ab7; color: #ffffff;">medRxiv</abbr>
   </div>
 
