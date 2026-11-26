@@ -6,7 +6,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
-    <div class="teaser" style="border: 1px solid #999; box-shadow: none; display: flex; align-items: center; justify-content: center; font-size: 1.4rem; font-weight: 600; color: #888;">scHINT</div>
+    <img src="assets/schint.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge" style="background-color: #337ab7; color: #ffffff;">medRxiv</abbr>
   </div>
 
