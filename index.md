@@ -22,6 +22,7 @@ My CV is <a href="https://drive.google.com/file/d/1vP8bb642gygZC8j9zwBG1buyya5Y0
 {% include_relative _includes/projects.md %}
 
 ## Selected Publication {#publications}
+- [2026] Wang, L., Gusev, A., et al. <a href="https://www.medrxiv.org/content/10.64898/2026.11.23.26368758v1.full.pdf+html" target="_blank"> Single-cell gene expression heritability informed by genotype x cell-context interactions.</a>  medRxiv (2026, preprint)
 - [2025] Wang, L.†, Gao, S.†, et al. <a href="https://www.nature.com/articles/s41467-025-65643-w" target="_blank"> Integrating axis quantitative trait loci looks beyond cell types and offers insights into brain-related traits.</a>  Nat Commun 16, 10606 (2025)
 - [2025] Wang, L.†, Markus, H.†, et al.<a href="https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00076-X" target="_blank"> An atlas of single-cell eQTLs dissects autoimmune disease genes and identifies novel drug classes for treatment.</a>  Cell Genomics (2025)
 - [2024] Wang, L.†, Khunsriraksakul, C.†, et al. <a href="https://www.nature.com/articles/s41467-024-48143-1" target="_blank"> Integrating single cell expression quantitative trait loci summary statistics to understand complex trait risk genes.</a>  Nat Commun 15, 4260 (2024) 
